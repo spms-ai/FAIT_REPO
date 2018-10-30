@@ -1,4 +1,4 @@
-# Manual Utilizador SGES
+# Manual Utilizador FAIT
 
 [Manual utilizador FAIT](https://spms-ai.github.io/FAIT_REPO/FAIT_Manual_Utilizador) para ver o resultado do repositório.
 
