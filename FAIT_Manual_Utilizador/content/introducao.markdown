@@ -69,7 +69,7 @@ Na tabela seguinte estão apresentadas a siglas, ordenadas por ordem alfabética
    
  
 <p id="termos-e-definies"></p>
-# 3.Enquadramento
+# 3. Enquadramento
 
 O presente documento contém a informação necessária para a compreensão das funcionalidades existentes no âmbito do desenvolvimento da validação da Faturação de Acordos Internacionais e Transfronteiriços – FAIT.
 
