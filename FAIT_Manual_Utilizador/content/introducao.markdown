@@ -4,7 +4,7 @@ title: "Introdução"
 ---
 
 <p id="sobre-este-manual"></p>
-# 1.Sobre este Manual
+# 1. Sobre este Manual
 
 Este manual tem como objetivo auxiliar os diferentes utilizadores a compreenderem melhor o funcionamento da aplicação FAIT - Faturação de Acordos Internacionais e Transfronteiriços. 
 O manual está organizado em vários capítulos:
@@ -34,7 +34,7 @@ O manual está organizado em vários capítulos:
 
 
 <p id="tabela-de-acrnimos"></p>
-# 2.Tabela de Acrónimos
+# 2. Tabela de Acrónimos
 
 Na tabela seguinte estão apresentadas a siglas, ordenadas por ordem alfabética, que serão utilizadas no manual e na aplicação.
 
@@ -57,7 +57,7 @@ O manual apresenta as funcionalidades separadas por tipo de perfil (ACSS e EPSNS
 
 
 <p id="conceitos-bsicos"></p>
-# 4.Conceitos Básicos
+# 4. Conceitos Básicos
 
 Associada à interação com o sistema existe um conjunto de conceitos para os quais é chamada a atenção neste capítulo. 
 Quer a importação dos ficheiros, ou formulários que permitem a criação ou edição de dados têm um conjunto de regras de negócio e validações para facilitar o preenchimento correto dos dados. Para auxiliar as validações existem 4 tipos de mensagens:
