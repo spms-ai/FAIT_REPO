@@ -8,29 +8,52 @@ title: "Introdução"
 
 Este manual tem como objetivo auxiliar os diferentes utilizadores a compreenderem melhor o funcionamento da aplicação FAIT - Faturação de Acordos Internacionais e Transfronteiriços. 
 O manual está organizado em vários capítulos:
-	1. Sobre este Manual - o capítulo presente, que faz uma breve descrição dos capítulos seguintes, nos quais pode ser encontrada a informação de que o utilizador precisa.
-	2. Tabela de Acrónimos, termos e definições - contém todos os acrónimos utilizados ao longo do manual.   
-	3. Enquadramento - neste capítulo é apresentado o sistema FAIT e os objetivos.
-	4. Conceitos Básicos - são explicados os principais conceitos que suportam a aplicação, incluindo os seguintes subcapítulos:
-		* Aceder ao FAIT, onde é descrito como é que os utilizadores devem aceder ao sistema; Alteração da Senha, onde o utilizador pode perceber como se muda a password.
-		* Permissões e Perfis, no qual são descritos os diferentes tipos de utilizadores previstos no FAIT, bem como as permissões que lhes poderão ser associadas.
-	5. Módulos Perfil EPSNS – neste capítulo o utilizador visualiza um conjunto de módulos, onde poderá efetuar todas as ações à que possui permissão, incluindo os seguintes subcapítulos:
-		* Módulo Registar Fatura;
-		* Módulo Importar Fatura;
-		* Módulo Consultar Relatórios de Importação;
-		* Módulo Gestão de Ficheiros;
-		* Módulo Gestão de Faturas.
-	6. Módulos Perfil ACSS - neste capítulo o utilizador visualiza um conjunto de módulos, onde poderá efetuar todas as ações à que possui permissão, incluindo os seguintes subcapítulos:
-		* Módulo Gestão de Ficheiros
-		* Módulo Gestão de Faturas
-	7. Regras de Validação - neste capítulo serão explicadas as regras de validação implementadas onde servem para validar toda a informação contida no ficheiro, tanto no que diz respeito ao seu conteúdo, mas também quanto a sua estrutura.
-	8. Mapeamento do ficheiro – é explicado o que é necessário para que a importação do ficheiro ocorra com sucesso. Inclui os subcapítulos:
-		* Mapeamento da última linha do Ficheiro
-		* Representação do mapeamento de uma fatura no Ficheiro
-		* Representação do mapeamento da última linha do Ficheiro
-	9. Regras de Negócio – neste capítulo é foi disponibilizada informação que o utilizador poderá consultar sobre o negócio.
-	10. Apoio ao Utilizador - neste capítulo o utilizador é informado como poderá contactar a equipa de suporte á aplicação, caso surjam dúvidas, dificuldades bem como sugestões de melhorias.
-11.	Controlo do Documento - neste capítulo é identificado o histórico de alterações.
+
+1. Sobre este Manual - o capítulo presente, que faz uma breve descrição dos capítulos seguintes, nos quais pode ser encontrada a informação de que o utilizador precisa.
+
+2. Tabela de Acrónimos, termos e definições - contém todos os acrónimos utilizados ao longo do manual.   
+
+3. Enquadramento - neste capítulo é apresentado o sistema FAIT e os objetivos.
+
+4. Conceitos Básicos - são explicados os principais conceitos que suportam a aplicação, incluindo os seguintes subcapítulos:
+
+* Aceder ao FAIT, onde é descrito como é que os utilizadores devem aceder ao sistema; Alteração da Senha, onde o utilizador pode perceber como se muda a password.
+
+* Permissões e Perfis, no qual são descritos os diferentes tipos de utilizadores previstos no FAIT, bem como as permissões que lhes poderão ser associadas.
+
+5. Módulos Perfil EPSNS – neste capítulo o utilizador visualiza um conjunto de módulos, onde poderá efetuar todas as ações à que possui permissão, incluindo os seguintes subcapítulos:
+
+* Módulo Registar Fatura;
+
+* Módulo Importar Fatura;
+
+* Módulo Consultar Relatórios de Importação;
+
+* Módulo Gestão de Ficheiros;
+
+* Módulo Gestão de Faturas.
+
+6. Módulos Perfil ACSS - neste capítulo o utilizador visualiza um conjunto de módulos, onde poderá efetuar todas as ações à que possui permissão, incluindo os seguintes subcapítulos:
+
+* Módulo Gestão de Ficheiros
+
+* Módulo Gestão de Faturas
+
+7. Regras de Validação - neste capítulo serão explicadas as regras de validação implementadas onde servem para validar toda a informação contida no ficheiro, tanto no que diz respeito ao seu conteúdo, mas também quanto a sua estrutura.
+
+8. Mapeamento do ficheiro – é explicado o que é necessário para que a importação do ficheiro ocorra com sucesso. Inclui os subcapítulos:
+
+* Mapeamento da última linha do Ficheiro
+
+* Representação do mapeamento de uma fatura no Ficheiro
+
+* Representação do mapeamento da última linha do Ficheiro
+
+9. Regras de Negócio – neste capítulo é foi disponibilizada informação que o utilizador poderá consultar sobre o negócio.
+
+10. Apoio ao Utilizador - neste capítulo o utilizador é informado como poderá contactar a equipa de suporte á aplicação, caso surjam dúvidas, dificuldades bem como sugestões de melhorias.
+
+11.Controlo do Documento - neste capítulo é identificado o histórico de alterações.
 
 
 <p id="tabela-de-acrnimos"></p>
@@ -49,9 +72,12 @@ Na tabela seguinte estão apresentadas a siglas, ordenadas por ordem alfabética
 # 3.Enquadramento
 
 O presente documento contém a informação necessária para a compreensão das funcionalidades existentes no âmbito do desenvolvimento da validação da Faturação de Acordos Internacionais e Transfronteiriços – FAIT.
+
 As funcionalidades foram desenvolvidas para responder à necessidade de validação da informação enviada pelas Entidades Prestadoras de Cuidados de Saúde referente à faturação das despesas com cuidados de saúde dos segurados de outro Estado-Membro ou de país terceiro com o qual Portugal tenha Acordo Bilateral e que para o efeito tenham apresentado um documento de atestado de direito válido.
 O ambiente de execução aplicacional é totalmente baseado e orientado às tecnologias Web, isto é, serão desenvolvidos utilizando a tecnologia Apache Wicket, assegurando que os utilizadores finais podem realizar todas as interações com o sistema através do seguinte browser web:
-* Google Chrome.
+
+* Google Chrome;
+
 Todas as comunicações ao nível da camada de aplicação do Modelo OSI (Open System Interconnection) são realizadas tirando partido do protocolo HTTP/HTTPS.
 O manual apresenta as funcionalidades separadas por tipo de perfil (ACSS e EPSNS) e orienta quanto às regras de validação da informação da faturação dessas despesas, para posterior importação para a área de Despesas Efetivas na vertente de Portugal Credor no SIGAI.
 
