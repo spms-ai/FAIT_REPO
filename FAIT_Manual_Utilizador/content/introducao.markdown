@@ -46,25 +46,22 @@ Na tabela seguinte estão apresentadas a siglas, ordenadas por ordem alfabética
    
  
 <p id="termos-e-definies"></p>
-# 3.Introdução
-O Sistema de Gestão de Entidades de Saúde (*SGES*) é um projeto estruturante para o sistema de informação de saúde, promovendo a criação de um repositório central de Entidades de Saúde, fiável e permanentemente atualizado, a partilhar com todos os SI, eliminando a redundância de informação e promovendo o aumento da qualidade dos dados.
-Considerando a evolução dos requisitos funcionais e técnicos, resultante das iterações ocorridas com os diferentes intervenientes ao longo do projeto a que este sistema deu origem, identificam-se como principais objetivos conseguir através do SGES:
-* Conhecer as entidades prestadoras de cuidados de saúde, a sua distribuição geográfica, a sua capacidade instalada e a sua relação com o SNS;
-* Dispor de um repositório de entidades de saúde único, integrado e partilhado;
-* Disponibilizar informação consistente, de qualidade e atempada aos diferentes SI da Saúde;
-* Reduzir os custos de manutenção e implementação dos SI da Saúde;
-* Maior celeridade na obtenção de respostas e tratamento de processos, por parte dos organismos utilizadores;
-* Facilitar o acesso da informação sobre entidades de saúde ao cidadão;
-* Reduzir o número de interações entre o cidadão e os serviços do SNS, para obtenção de informação sobre entidades convencionadas;
-* Otimizar a gestão dos recursos disponíveis.
+# 3.Enquadramento
+
+O presente documento contém a informação necessária para a compreensão das funcionalidades existentes no âmbito do desenvolvimento da validação da Faturação de Acordos Internacionais e Transfronteiriços – FAIT.
+As funcionalidades foram desenvolvidas para responder à necessidade de validação da informação enviada pelas Entidades Prestadoras de Cuidados de Saúde referente à faturação das despesas com cuidados de saúde dos segurados de outro Estado-Membro ou de país terceiro com o qual Portugal tenha Acordo Bilateral e que para o efeito tenham apresentado um documento de atestado de direito válido.
+O ambiente de execução aplicacional é totalmente baseado e orientado às tecnologias Web, isto é, serão desenvolvidos utilizando a tecnologia Apache Wicket, assegurando que os utilizadores finais podem realizar todas as interações com o sistema através do seguinte browser web:
+	- Google Chrome.
+Todas as comunicações ao nível da camada de aplicação do Modelo OSI (Open System Interconnection) são realizadas tirando partido do protocolo HTTP/HTTPS.
+O manual apresenta as funcionalidades separadas por tipo de perfil (ACSS e EPSNS) e orienta quanto às regras de validação da informação da faturação dessas despesas, para posterior importação para a área de Despesas Efetivas na vertente de Portugal Credor no SIGAI.
+
 
 <p id="conceitos-bsicos"></p>
 # 4.Conceitos Básicos
 
-Associada a essa interação existe um conjunto de conceitos que serão referidos neste capítulo.
+Associada à interação com o sistema existe um conjunto de conceitos para os quais é chamada a atenção neste capítulo. 
+Quer a importação dos ficheiros, ou formulários que permitem a criação ou edição de dados têm um conjunto de regras de negócio e validações para facilitar o preenchimento correto dos dados. Para auxiliar as validações existem 4 tipos de mensagens:
 
-Todos os formulários que permitem criação ou edição de dados têm um conjunto de regras de negócio e validações para facilitar o preenchimento correto dos dados.
-Para auxiliar o processo de criação e edição de dados existem quatro tipos de mensagens:
 
 * Mensagem de informação ([](#figInfo));
 
