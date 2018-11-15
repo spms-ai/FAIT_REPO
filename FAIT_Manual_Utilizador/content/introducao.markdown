@@ -5,25 +5,35 @@ title: "Introdução"
 
 <p id="sobre-este-manual"></p>
 # 1.Sobre este Manual
-Este manual descreve o modo de funcionamento do sistema, apresentando os respectivos ecrãs, sua sequência, modo de preenchimento e as regras de negócio que lhe estão subjacentes. 
-Será organizado:
 
- - “Sobre este Manual”, o capítulo atual que descreve o conteúdo do
-   manual, qual a sua organização e como pode ser consultado; 
- - “Tabela de  Acrónimos”, que contém todos os acrónimos usados ao longo deste manual e que permitirá que o utilizador fique familiarizado com determinadas abreviaturas apresentadas na aplicação; 
- - “Introdução”,   onde é apresentado o sistema SGES, qual o seu contexto e propósito e os propósitos da utilização da aplicação informática;
-- “Conceitos básicos”, onde se explicam os principais conceitos que suportam a aplicação, em particular, o conceito de “navegação" no sistema, explicando o que se entende por isso. Este capítulo inclui os seguintes sub-capítulos:
- 	 * “Aceder ao SGES”, onde é descrito como o utilizador pode aceder ao sistema;
-	 * “Alteração da senha”, onde é descrito a sequência de ações que o utilizador tem de realizar para alterar a sua senha;
-	 * “Página de pesquisa”, onde é apresentado o menu de pesquisa da aplicação;
-	 “Gestão de utilizadores”, onde é apresentada a possibilidade de criar e gerir utilizadores;
-- “Sequências de menus”, onde são apresentados os menus, aos quais o utilizador pode aceder através da aplicação, e as suas funcionalidades.
+Este manual tem como objetivo auxiliar os diferentes utilizadores a compreenderem melhor o funcionamento da aplicação FAIT - Faturação de Acordos Internacionais e Transfronteiriços. 
+O manual está organizado em vários capítulos:
+	1. Sobre este Manual - o capítulo presente, que faz uma breve descrição dos capítulos seguintes, nos quais pode ser encontrada a informação de que o utilizador precisa.
+	2. Tabela de Acrónimos, termos e definições - contém todos os acrónimos utilizados ao longo do manual.   
+	3. Enquadramento - neste capítulo é apresentado o sistema FAIT e os objetivos.
+	4. Conceitos Básicos - são explicados os principais conceitos que suportam a aplicação, incluindo os seguintes subcapítulos:
+		* Aceder ao FAIT, onde é descrito como é que os utilizadores devem aceder ao sistema; Alteração da Senha, onde o utilizador pode perceber como se muda a password.
+		* Permissões e Perfis, no qual são descritos os diferentes tipos de utilizadores previstos no FAIT, bem como as permissões que lhes poderão ser associadas.
+	5. Módulos Perfil EPSNS – neste capítulo o utilizador visualiza um conjunto de módulos, onde poderá efetuar todas as ações à que possui permissão, incluindo os seguintes subcapítulos:
+		* Módulo Registar Fatura;
+		* Módulo Importar Fatura;
+		* Módulo Consultar Relatórios de Importação;
+		* Módulo Gestão de Ficheiros;
+		* Módulo Gestão de Faturas.
+	6. Módulos Perfil ACSS - neste capítulo o utilizador visualiza um conjunto de módulos, onde poderá efetuar todas as ações à que possui permissão, incluindo os seguintes subcapítulos:
+		* Módulo Gestão de Ficheiros
+		* Módulo Gestão de Faturas
+	7. Regras de Validação - neste capítulo serão explicadas as regras de validação implementadas onde servem para validar toda a informação contida no ficheiro, tanto no que diz respeito ao seu conteúdo, mas também quanto a sua estrutura.
+	8. Mapeamento do ficheiro – é explicado o que é necessário para que a importação do ficheiro ocorra com sucesso. Inclui os subcapítulos:
+		* Mapeamento da última linha do Ficheiro
+		* Representação do mapeamento de uma fatura no Ficheiro
+		* Representação do mapeamento da última linha do Ficheiro
+	9. Regras de Negócio – neste capítulo é foi disponibilizada informação que o utilizador poderá consultar sobre o negócio.
+	10. Apoio ao Utilizador - neste capítulo o utilizador é informado como poderá contactar a equipa de suporte á aplicação, caso surjam dúvidas, dificuldades bem como sugestões de melhorias.
+11.	Controlo do Documento - neste capítulo é identificado o histórico de alterações.
 
-Este manual foi desenvolvido com o intuito de agilizar a interação das entidade ULS, Centros Hospitalares e Hospitais do Sistema Nacional de Saúde com 
-a aplicação SGES.
 
 <p id="tabela-de-acrnimos"></p>
-
 # 2.Tabela de Acrónimos
 
 Na tabela seguinte estão apresentadas a siglas, ordenadas por ordem alfabética, que serão utilizadas no manual e na aplicação.
@@ -31,16 +41,9 @@ Na tabela seguinte estão apresentadas a siglas, ordenadas por ordem alfabética
 |  Sigla |  Designação             |           
 |--------|-------------------------|
 |  ACSS  |  Administração Central do Sistema de Saúde |           
-|  ACES  |  Agrupamentos de Centros de Saúde |           
-|  ARS   |  Administração Regional de Saúde|           
-|  EPE   |  Entidade Pública Empresarial|           
-|  ERS   |  Entidade Reguladora da Saúde|   
-|  ETCS  |  Designação             |           
-|  IPSS  |  Instituições Particulares de Solidariedade Social|           
-|  UF    |  Unidade Funcional |           
-|  ULS   |  Unidade Local de Saúde |    
-|  SPMS  |  Serviços Partilhados do Ministério da Saúde|               
-|  PPP   |  Parceria Público-Privada|           
+|  EPSNS |  Entidades Prestadoras do SNS |           
+|  SIGAI |  Sistema de Informação para a Gestão de Acordos Internacionais |           
+   
  
 <p id="termos-e-definies"></p>
 # 3.Introdução
