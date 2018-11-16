@@ -9,19 +9,19 @@ title: "Introdução"
 Este manual tem como objetivo auxiliar os diferentes utilizadores a compreenderem melhor o funcionamento da aplicação FAIT - Faturação de Acordos Internacionais e Transfronteiriços. 
 O manual está organizado em vários capítulos:
 
-1. Sobre este Manual - o capítulo presente, que faz uma breve descrição dos capítulos seguintes, nos quais pode ser encontrada a informação de que o utilizador precisa.
+1. **Sobre este Manual** - o capítulo presente, que faz uma breve descrição dos capítulos seguintes, nos quais pode ser encontrada a informação de que o utilizador precisa.
 
-2. Tabela de Acrónimos, termos e definições - contém todos os acrónimos utilizados ao longo do manual.   
+2. **Tabela de Acrónimos, termos e definições** - contém todos os acrónimos utilizados ao longo do manual.   
 
-3. Enquadramento - neste capítulo é apresentado o sistema FAIT e os objetivos.
+3. **Enquadramento** - neste capítulo é apresentado o sistema FAIT e os objetivos.
 
-4. Conceitos Básicos - são explicados os principais conceitos que suportam a aplicação, incluindo os seguintes subcapítulos:
+4. **Conceitos Básicos** - são explicados os principais conceitos que suportam a aplicação, incluindo os seguintes subcapítulos:
 
    * Aceder ao FAIT, onde é descrito como é que os utilizadores devem aceder ao sistema; Alteração da Palavra-Passe, onde o utilizador pode perceber como se muda a palavra-passe.
 
    * Permissões e Perfis, no qual são descritos os diferentes tipos de utilizadores previstos no FAIT, bem como as permissões que lhes poderão ser associadas.
 
-5. Módulos Perfil EPSNS – neste capítulo o utilizador visualiza um conjunto de módulos, onde poderá efetuar todas as ações à que possui permissão, incluindo os seguintes subcapítulos:
+5. **Módulos Perfil EPSNS** – neste capítulo o utilizador visualiza um conjunto de módulos, onde poderá efetuar todas as ações à que possui permissão, incluindo os seguintes subcapítulos:
 
    * Módulo Registar Fatura;
 
@@ -33,15 +33,15 @@ O manual está organizado em vários capítulos:
 
    * Módulo Gestão de Faturas.
 
-6. Módulos Perfil ACSS - neste capítulo o utilizador visualiza um conjunto de módulos, onde poderá efetuar todas as ações à que possui permissão, incluindo os seguintes subcapítulos:
+6. **Módulos Perfil ACSS** - neste capítulo o utilizador visualiza um conjunto de módulos, onde poderá efetuar todas as ações à que possui permissão, incluindo os seguintes subcapítulos:
 
    * Módulo Gestão de Ficheiros
 
    * Módulo Gestão de Faturas
 
-7. Regras de Validação - neste capítulo serão explicadas as regras de validação implementadas onde servem para validar toda a informação contida no ficheiro, tanto no que diz respeito ao seu conteúdo, mas também quanto a sua estrutura.
+7. **Regras de Validação** - neste capítulo serão explicadas as regras de validação implementadas onde servem para validar toda a informação contida no ficheiro, tanto no que diz respeito ao seu conteúdo, mas também quanto a sua estrutura.
 
-8. Mapeamento do ficheiro – é explicado o que é necessário para que a importação do ficheiro ocorra com sucesso. Inclui os subcapítulos:
+8. **Mapeamento do ficheiro** – é explicado o que é necessário para que a importação do ficheiro ocorra com sucesso. Inclui os subcapítulos:
 
    * Mapeamento da última linha do Ficheiro
 
@@ -49,15 +49,15 @@ O manual está organizado em vários capítulos:
 
    * Representação do mapeamento da última linha do Ficheiro
 
-9. Regras de Negócio – neste capítulo é foi disponibilizada informação que o utilizador poderá consultar sobre o negócio.
+9. **Regras de Negócio** – neste capítulo é foi disponibilizada informação que o utilizador poderá consultar sobre o negócio.
 
-10. Apoio ao Utilizador - neste capítulo o utilizador é informado como poderá contactar a equipa de suporte á aplicação, caso surjam dúvidas, dificuldades bem como sugestões de melhorias.
+10. **Apoio ao Utilizador** - neste capítulo o utilizador é informado como poderá contactar a equipa de suporte á aplicação, caso surjam dúvidas, dificuldades bem como sugestões de melhorias.
 
-11.Controlo do Documento - neste capítulo é identificado o histórico de alterações.
+11. **Controlo do Documento** - neste capítulo é identificado o histórico de alterações.
 
 
 <p id="tabela-de-acrnimos"></p>
-# 2. Tabela de Acrónimos
+# 2. Tabela de Acrónimos, termos e definições
 
 Na tabela seguinte estão apresentadas a siglas, ordenadas por ordem alfabética, que serão utilizadas no manual e na aplicação.
 
