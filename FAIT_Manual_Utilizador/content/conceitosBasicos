@@ -1,0 +1,18 @@
+---
+layout: default
+title: "conceitosBasicos"
+---
+
+# 6. Conceitos Básicos
+
+Associada à interação com o sistema existe um conjunto de conceitos para os quais é chamada a atenção neste capítulo. 
+Quer a importação dos ficheiros, ou formulários que permitem a criação ou edição de dados têm um conjunto de regras de negócio e validações para facilitar o preenchimento correto dos dados. Para auxiliar as validações existem 4 tipos de mensagens:
+  * **Mensagem de Informação**: Representada pelo ícone xx. Tem por objetivo apenas informar o utilizador.
+  * **Mensagem de Alerta**: Representada pelo ícone xx. Seu objetivo passa por alertar o utilizador sobre algo. Este tipo de mensagem não impede que o utilizador execute uma ação.
+  * **Mensagem de Erro**: Representada pelo ícone xx. Este tipo de mensagem informa o utilizador que ocorreu algum problema durante a ecexução de uma ação e impede que esta ação seja executada até que o problema seja corrigido.
+  * **Mensagem de Sucesso**: Representada pelo ícone xx. Apenas informa o utilizador que a ação foi executada com sucesso.
+
+No cabeçalho das páginas do FAIT existe um conjunto de dados que pretende informar e contextualizar o utilizador:
+  •	Nome do utilizador;
+  •	Nome da entidade prestadora associada ao utilizador;
+  •	Botão das opções avançadas. Ao clicar neste, o utilizador tem acesso a opção de alterar a sua palavra-passe
