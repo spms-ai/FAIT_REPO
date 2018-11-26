@@ -89,25 +89,13 @@ Associada à interação com o sistema existe um conjunto de conceitos para os q
 Quer a importação dos ficheiros, ou formulários que permitem a criação ou edição de dados têm um conjunto de regras de negócio e validações para facilitar o preenchimento correto dos dados. Para auxiliar as validações existem 4 tipos de mensagens:
 
 
-* Mensagem de informação ([](#figInfo));
+* Mensagem de Informação: Representada pelo ícone ![figInfo](img/informacao.jpg). Tem por objetivo apenas informar ao utilizador.
 
-![figInfo](img/informacao.jpg)
+* Mensagem de Alerta: Representada pelo ícone ![figInfo](img/informacao.jpg). Seu objetivo passa por alertar o utilizador sobre algo. Este tipo de mensagem não impede que o utilizador execute uma ação.
 
-<p class="caption" id="figInfo"> Exemplo de uma mensagem de informação. </p>
+* Mensagem de Erro: Representada pelo ícone ![figInfo](img/informacao.jpg). Este tipo de mensagem informa ao utilizador que ocorreu algum problema durante a execução de uma ação, e impede que esta ação seja executada até que o problema seja corrigido.
 
-* Mensagem de Alerta ([](#figAlerta));
-
-![figAlerta](img/alerta.jpg)
-
-<p class="caption" id="figAlerta"> Exemplo de uma mensagem de alerta. </p>
-
-* Mensagem de Erro ([](#figErro));
-
-![figErro](img/erro.jpg)
-
-<p class="caption" id="figErro"> Exemplo de uma mensagem de erro. </p>
-
-* Mensagem de Sucesso ([](#figSucesso));
+* Mensagem de Sucesso: Representada pelo ícone ![figInfo](img/informacao.jpg). Apenas informa ao utilizador que a sua ação foi executada com sucesso.
 
 ![figSucesso](img/sucesso.jpg)
 
