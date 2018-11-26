@@ -97,12 +97,8 @@ Quer a importação dos ficheiros, ou formulários que permitem a criação ou e
 
 * Mensagem de Sucesso: Representada pelo ícone ![figInfo](img/informacao.jpg). Apenas informa ao utilizador que a sua ação foi executada com sucesso.
 
-![figSucesso](img/sucesso.jpg)
 
-<p class="caption" id="figSucesso"> Exemplo de uma mensagem de sucesso. </p>
-
-
-No cabeçalho das páginas do **SGES** existe um conjunto de dados que serve para informação/contextualização do utilizador. 
+No cabeçalho das páginas do **FAIT** existe um conjunto de dados que pretende informar e contextualizar o utilizador: 
 
 Aparece na primeira linha é mostrado o perfil do utilizador e, caso este pertença a uma entidade, é mostrado o nome desta. Na segunda linha aparece o nome do utilizador.
 
