@@ -14,17 +14,17 @@ title: "Introdução"
 
 <ol>
 	<li>
-		<strong><a href="#sobre-este-manual">“Sobre este Manual”</a></strong> - o capítulo presente, que faz uma breve descrição dos capítulos seguintes, nos quais pode ser encontrada a informação de que o utilizador precisa.<br>
+		<strong><a href="#sobre-este-manual">Sobre este Manual</a></strong> - o capítulo presente, que faz uma breve descrição dos capítulos seguintes, nos quais pode ser encontrada a informação de que o utilizador precisa.<br>
 	</li>
 
 	<li>
-		<strong><a href="#tabela-de-acrnimos">“Tabela de Acrónimos”</a></strong> - contém todos os acrónimos utilizados ao longo do manual;<br>
+		<strong><a href="#tabela-de-acrnimos">Tabela de Acrónimos</a></strong> - contém todos os acrónimos utilizados ao longo do manual;<br>
 	</li>
 	<li>
-		<strong><a href="#introduo">“Enquadramento”</a></strong> - neste capítulo é apresentado o sistema FAIT e os objetivos.		<br>
+		<strong><a href="#introduo">Enquadramento</a></strong> - neste capítulo é apresentado o sistema FAIT e os objetivos.		<br>
 	</li>
 	<li>
-		<strong><a href="#conceitos-bsicos">“Conceitos Básicos”</a></strong> - são explicados os principais conceitos que suportam a aplicação, incluindo os seguintes subcapítulos:
+		<strong><a href="#conceitos-bsicos">Conceitos Básicos</a></strong> - são explicados os principais conceitos que suportam a aplicação, incluindo os seguintes subcapítulos:
 		<ul>
 			<li>
 				<a href="#aceder-ao-fait">Aceder ao FAIT</a>, onde é descrito como é que os utilizadores devem aceder ao sistema; Alteração da Palavra-Passe, onde o utilizador pode perceber como se muda a palavra-passe;
@@ -41,7 +41,7 @@ title: "Introdução"
 	</li>
 
 		<li>
-		<strong><a href="#sobre-este-manual">“Módulos Perfil EPSNS”</a></strong> - neste capítulo o utilizador visualiza um conjunto de módulos, onde poderá efetuar todas as ações à que possui permissão, incluindo os seguintes subcapítulos:<br>
+		<strong><a href="#sobre-este-manual">Módulos Perfil EPSNS</a></strong> - neste capítulo o utilizador visualiza um conjunto de módulos, onde poderá efetuar todas as ações à que possui permissão, incluindo os seguintes subcapítulos:<br>
 		<ul>
 			<li>
 				<a href="#RegistarFatura">Módulo Registar Fatura;</a>
@@ -60,31 +60,44 @@ title: "Introdução"
 			</li>
 		</ul>
 	</li>
- </ol> 
-
-
-
-6. **Módulos Perfil ACSS** - neste capítulo o utilizador visualiza um conjunto de módulos, onde poderá efetuar todas as ações à que possui permissão, incluindo os seguintes subcapítulos:
-
-   * Módulo Gestão de Ficheiros
-
-   * Módulo Gestão de Faturas
-
-7. **Regras de Validação** - neste capítulo serão explicadas as regras de validação implementadas onde servem para validar toda a informação contida no ficheiro, tanto no que diz respeito ao seu conteúdo, mas também quanto a sua estrutura.
-
-8. **Mapeamento do ficheiro** – é explicado o que é necessário para que a importação do ficheiro ocorra com sucesso. Inclui os subcapítulos:
-
-   * Mapeamento da última linha do Ficheiro
-
-   * Representação do mapeamento de uma fatura no Ficheiro
-
-   * Representação do mapeamento da última linha do Ficheiro
-
-9. **Regras de Negócio** – neste capítulo é foi disponibilizada informação que o utilizador poderá consultar sobre o negócio.
-
-10. **Apoio ao Utilizador** - neste capítulo o utilizador é informado como poderá contactar a equipa de suporte á aplicação, caso surjam dúvidas, dificuldades bem como sugestões de melhorias.
-
-11. **Controlo do Documento** - neste capítulo é identificado o histórico de alterações.
+	<li>
+		<strong><a href="#ModulosACSS">Módulos Perfil ACSS</a></strong> - neste capítulo o utilizador visualiza um conjunto de módulos, onde poderá efetuar todas as ações à que possui permissão, incluindo os seguintes subcapítulos:<br>
+		<ul>
+			<li>
+				<a href="#RegistarFatura">Módulo Gestão de Ficheiros;</a>
+			</li>
+			<li>
+				<a href="#RegistarFatura">Módulo Gestão de Faturas</a>
+			</li>
+		</ul>
+		<li>
+		<strong><a href="#RegrasValidacao">Regras de Validação</a></strong> - neste capítulo serão explicadas as regras de validação implementadas onde servem para validar toda a informação contida no ficheiro, tanto no que diz respeito ao seu conteúdo, mas também quanto a sua estrutura.<br>
+		</li>
+		<li>
+		<strong><a href="#MapFicheiro">Mapeamento do ficheiro</a></strong> - é explicado o que é necessário para que a importação do ficheiro ocorra com sucesso. Inclui os subcapítulos:<br>
+		<ul>
+			<li>
+				<a href="#MapUltimaLinha">Mapeamento da última linha do Ficheiro;</a>
+			</li>
+			<li>
+				<a href="#RepresFatura">Representação do mapeamento de uma fatura no Ficheiro</a>
+			</li>
+			<li>
+				<a href="#RepresUltimaLinha">Representação do mapeamento da última linha do Ficheiro</a>
+			</li>
+		</ul>
+		
+		</li>
+		<li>
+		<strong><a href="#RegrasNegocio">Regras de Negócio</a></strong> - neste capítulo é foi disponibilizada informação que o utilizador poderá consultar sobre o negócio.<br>
+		</li>
+		<li>
+		<strong><a href="#ApoioUt">Apoio ao Utilizador</a></strong> - neste capítulo o utilizador é informado como poderá contactar a equipa de suporte á aplicação, caso surjam dúvidas, dificuldades bem como sugestões de melhorias.<br>
+		</li>
+		<li>
+		<strong><a href="#ControlDocu">Controlo do Documento</a></strong> - neste capítulo é identificado o histórico de alterações.<br>
+		</li>
+</ol> 
 
 
 <p id="tabela-de-acrnimos"></p>
