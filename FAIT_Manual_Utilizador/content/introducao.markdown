@@ -15,7 +15,7 @@
 
 <ol>
 	<li>
-		<strong><a href="#sobre-este-manual">Sobre este Manual</a></strong> - o capítulo presente, que faz uma breve descrição dos capítulos seguintes, nos quais pode ser encontrada a informação de que o utilizador precisa.<br>
+		<strong><a href="#sobre-este-manual">Sobre este Manual</a></strong> - o capítulo presente, que faz uma breve descrição dos capítulos seguintes, nos quais pode ser encontrada a informação de que o utilizador precisa;<br>
 	</li>
 
 	<li>
@@ -41,7 +41,7 @@
 		</ul>
 	</li>
 
-		<li>
+	<li>
 		<strong><a href="#sobre-este-manual">Módulos Perfil EPSNS</a></strong> - neste capítulo o utilizador visualiza um conjunto de módulos, onde poderá efetuar todas as ações à que possui permissão, incluindo os seguintes subcapítulos:<br>
 		<ul>
 			<li>
@@ -71,6 +71,7 @@
 				<a href="#RegistarFatura">Módulo Gestão de Faturas</a>
 			</li>
 		</ul>
+	</li>
 	<li>
 		<strong><a href="#RegrasValidacao">Regras de Validação</a></strong> - neste capítulo serão explicadas as regras de validação implementadas onde servem para validar toda a informação contida no ficheiro, tanto no que diz respeito ao seu conteúdo, mas também quanto a sua estrutura.<br>
 	</li>
@@ -145,8 +146,8 @@
 	</li>
 </ul>
 
-Todas as comunicações ao nível da camada de aplicação do Modelo OSI (Open System Interconnection) são realizadas tirando partido do protocolo HTTP/HTTPS.
-O manual apresenta as funcionalidades separadas por tipo de perfil (ACSS e EPSNS) e orienta quanto às regras de validação da informação da faturação dessas despesas, para posterior importação para a área de Despesas Efetivas na vertente de Portugal Credor no SIGAI.
+<p>Todas as comunicações ao nível da camada de aplicação do Modelo OSI (Open System Interconnection) são realizadas tirando partido do protocolo HTTP/HTTPS.</p>
+<p>O manual apresenta as funcionalidades separadas por tipo de perfil (ACSS e EPSNS) e orienta quanto às regras de validação da informação da faturação dessas despesas, para posterior importação para a área de Despesas Efetivas na vertente de Portugal Credor no SIGAI.</p>
 
 
 <p id="conceitos-bsicos"></p>
