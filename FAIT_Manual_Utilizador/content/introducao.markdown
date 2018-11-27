@@ -111,16 +111,23 @@ No cabeçalho das páginas do **FAIT** existe um conjunto de dados que pretende 
 <div id="aceder-ao-fait"></div>
 <h2 id="41-aceder-ao-fait">4.1. Aceder ao FAIT</h2>
 
-O acesso ao FAIT é realizado através da navegação ao endereço em [https://fait.min-saude.pt/](https://fait.min-saude.pt/) num *browser# de internet.
+O acesso ao FAIT é realizado através da navegação ao endereço em [https://fait.min-saude.pt/](https://fait.min-saude.pt/) num *browser* de internet.
 Ao aceder à plataforma FAIT irá surgir a página que aparece na figura abaixo. 
 
 ![figLogin](img/capitulo4/4_1Login.png)
 
 <p class="caption" id="figLogin">Página de acesso do FAIT </p>
 
-Caso o utilizador conheça as suas credenciais, deve preencher os campos obrigatórios, e clicar em **Avançar**.
 
-Caso contrário, deverá clicar em **Recuperar Senha**, deve preencher os campos obrigatórios, e clicar em **Enviar**.
+O utilizador deve, nesta página, inserir as suas credenciais de acesso (Nome de utilizador e palavra-passe), e clicar no botão **Avançar**.
+
+Se o utilizador com o perfil EPSNS possuir mais de uma instituição associada ao seu perfil, é-lhe solicitado que escolha a instituição que pretende entrar em sessão. Caso o utilizador tenha apenas uma Instituição associada será estabelecida a sessão automaticamente.
+
+![figLogin](img/capitulo4/4_1LoginInst.png)
+
+<p class="caption" id="figLogin">Selecionar Instituição</p>
+
+
 
 |    |  Campos Obrigatórios [](#figLoginRecuperacao) |           
 |----|----------------------------------------|
