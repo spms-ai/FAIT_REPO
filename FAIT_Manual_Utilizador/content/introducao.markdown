@@ -2,24 +2,44 @@
 layout: default
 title: "Introdução"
 ---
+<div id="sobre-este-manual">
+</div>
+<br>
+<h1 id="1-sobre-este-manual">
+ 1. Sobre este Manual
+</h1>
+<p>Este manual tem como objetivo auxiliar os diferentes utilizadores a compreenderem melhor o funcionamento da aplicação FAIT - Faturação de Acordos Internacionais e Transfronteiriços. </p>
+<p>O manual está organizado em vários capítulos:</p>
 
-<p id="sobre-este-manual"></p>
-# 1. Sobre este Manual
+<ol>
+	<li>
+		<strong><a href="#sobre-este-manual">“Sobre este Manual”</a></strong> - o capítulo presente, que faz uma breve descrição dos capítulos seguintes, nos quais pode ser encontrada a informação de que o utilizador precisa;<br>
+	</li>
 
-Este manual tem como objetivo auxiliar os diferentes utilizadores a compreenderem melhor o funcionamento da aplicação FAIT - Faturação de Acordos Internacionais e Transfronteiriços. 
-O manual está organizado em vários capítulos:
+	<li>
+		<strong><a href="#tabela-de-acrnimos">“Tabela de Acrónimos”</a></strong> - contém todos os acrónimos utilizados ao longo do manual;<br>
+	</li>
+<li>
+		<strong><a href="#introduo">“Enquadramento”</a></strong> - neste capítulo é apresentado o sistema FAIT e os objetivos.<br>
+	</li>
 
-1. **Sobre este Manual** - o capítulo presente, que faz uma breve descrição dos capítulos seguintes, nos quais pode ser encontrada a informação de que o utilizador precisa.
+	<li>
+		<strong><a href="#conceitos-bsicos">“Conceitos Básicos”</a></strong> - são explicados os principais conceitos que suportam a aplicação, incluindo os seguintes subcapítulos:
+		<ul>
+			<li>
+				<a href="#aceder-ao-fait">Aceder ao FAIT</a>, onde é descrito como é que os utilizadores devem aceder ao sistema; Alteração da Palavra-Passe, onde o utilizador pode perceber como se muda a palavra-passe;
+			</li>
 
-2. **Tabela de Acrónimos, termos e definições** - contém todos os acrónimos utilizados ao longo do manual.   
+			<li>
+				<a href="#permissoesPerfis">Permissões e Perfis</a>, no qual são descritos os diferentes tipos de utilizadores previstos no FAIT, bem como as permissões que lhes poderão ser associadas;
+			</li>
 
-3. **Enquadramento** - neste capítulo é apresentado o sistema FAIT e os objetivos.
-
-4. **Conceitos Básicos** - são explicados os principais conceitos que suportam a aplicação, incluindo os seguintes subcapítulos:
-
-   * Aceder ao FAIT, onde é descrito como é que os utilizadores devem aceder ao sistema; Alteração da Palavra-Passe, onde o utilizador pode perceber como se muda a palavra-passe.
-
-   * Permissões e Perfis, no qual são descritos os diferentes tipos de utilizadores previstos no FAIT, bem como as permissões que lhes poderão ser associadas.
+			<li>
+				<a href="#alteraPassword">Alteração da Senha</a>, onde o utilizador pode perceber como se muda a <em>password</em>.
+			</li>
+		</ul>
+	</li>
+  
 
 5. **Módulos Perfil EPSNS** – neste capítulo o utilizador visualiza um conjunto de módulos, onde poderá efetuar todas as ações à que possui permissão, incluindo os seguintes subcapítulos:
 
