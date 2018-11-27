@@ -1,16 +1,16 @@
----
-layout: default
-title: "Introdução"
----
-
 <div id="sobre-este-manual">
 </div>
 <br>
+
 <h1 id="1-sobre-este-manual">
  1. Sobre este Manual
 </h1>
+
 <p>Este manual tem como objetivo auxiliar os diferentes utilizadores a compreenderem melhor o funcionamento da aplicação FAIT - Faturação de Acordos Internacionais e Transfronteiriços. </p>
 <p>O manual está organizado em vários capítulos:</p>
+
+<p>
+</p>
 
 <ol>
 	<li>
@@ -21,7 +21,7 @@ title: "Introdução"
 		<strong><a href="#tabela-de-acrnimos">Tabela de Acrónimos</a></strong> - contém todos os acrónimos utilizados ao longo do manual;<br>
 	</li>
 	<li>
-		<strong><a href="#introduo">Enquadramento</a></strong> - neste capítulo é apresentado o sistema FAIT e os objetivos.		<br>
+		<strong><a href="#introduo">Enquadramento</a></strong> - neste capítulo é apresentado o sistema FAIT e os objetivos;	<br>
 	</li>
 	<li>
 		<strong><a href="#conceitos-bsicos">Conceitos Básicos</a></strong> - são explicados os principais conceitos que suportam a aplicação, incluindo os seguintes subcapítulos:
@@ -70,10 +70,10 @@ title: "Introdução"
 				<a href="#RegistarFatura">Módulo Gestão de Faturas</a>
 			</li>
 		</ul>
-		<li>
+	<li>
 		<strong><a href="#RegrasValidacao">Regras de Validação</a></strong> - neste capítulo serão explicadas as regras de validação implementadas onde servem para validar toda a informação contida no ficheiro, tanto no que diz respeito ao seu conteúdo, mas também quanto a sua estrutura.<br>
-		</li>
-		<li>
+	</li>
+	<li>
 		<strong><a href="#MapFicheiro">Mapeamento do ficheiro</a></strong> - é explicado o que é necessário para que a importação do ficheiro ocorra com sucesso. Inclui os subcapítulos:<br>
 		<ul>
 			<li>
@@ -86,30 +86,47 @@ title: "Introdução"
 				<a href="#RepresUltimaLinha">Representação do mapeamento da última linha do Ficheiro</a>
 			</li>
 		</ul>
-		
-		</li>
-		<li>
+	</li>
+	<li>
 		<strong><a href="#RegrasNegocio">Regras de Negócio</a></strong> - neste capítulo é foi disponibilizada informação que o utilizador poderá consultar sobre o negócio.<br>
-		</li>
-		<li>
+	</li>
+	<li>
 		<strong><a href="#ApoioUt">Apoio ao Utilizador</a></strong> - neste capítulo o utilizador é informado como poderá contactar a equipa de suporte á aplicação, caso surjam dúvidas, dificuldades bem como sugestões de melhorias.<br>
-		</li>
+	</li>
 		<li>
-		<strong><a href="#ControlDocu">Controlo do Documento</a></strong> - neste capítulo é identificado o histórico de alterações.<br>
-		</li>
+	<strong><a href="#ControlDocu">Controlo do Documento</a></strong> - neste capítulo é identificado o histórico de alterações.<br>
+	</li>
 </ol> 
 
 
-<p id="tabela-de-acrnimos"></p>
-# 2. Tabela de Acrónimos, termos e definições
-
-Na tabela seguinte estão apresentadas a siglas, ordenadas por ordem alfabética, que serão utilizadas no manual e na aplicação.
-
-|  Sigla |  Designação             |           
-|--------|-------------------------|
-|  ACSS  |  Administração Central do Sistema de Saúde |           
-|  EPSNS |  Entidades Prestadoras do SNS |           
-|  SIGAI |  Sistema de Informação para a Gestão de Acordos Internacionais |           
+<hr>
+<div id="tabela-de-acrnimos"></div><br>
+<br>
+<br>
+<h1 id="2-tabela-de-acrónimos">2. Tabela de Acrónimos</h1>
+<p>A tabela seguinte contém a descrição de várias siglas usadas ao longo do documento.</p>
+<table>
+	<thead>
+		<tr>
+			<th><h5>Sigla</h5></th>
+			<th><h5>Designação</h5></th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="border-bottom: 1pt solid rgb(0, 80, 130); border-top: 1pt solid rgb(0, 80, 130);; border-right: 1pt solid rgb(0, 80, 130);; border-left: 1pt solid rgb(0, 80, 130);">ACSS</td>
+			<td style="border-bottom: 1pt solid rgb(0, 80, 130); border-top: 1pt solid rgb(0, 80, 130);; border-right: 1pt solid rgb(0, 80, 130);; border-left: 1pt solid rgb(0, 80, 130);">Administração Central do Sistema de Saúde</td>
+		</tr>
+		<tr>
+			<td style="border-bottom: 1pt solid rgb(0, 80, 130); border-top: 1pt solid rgb(0, 80, 130);; border-right: 1pt solid rgb(0, 80, 130);; border-left: 1pt solid rgb(0, 80, 130);">EPSNS</td>
+			<td style="border-bottom: 1pt solid rgb(0, 80, 130); border-top: 1pt solid rgb(0, 80, 130);; border-right: 1pt solid rgb(0, 80, 130);; border-left: 1pt solid rgb(0, 80, 130);">Entidade Prestadora do SNS</td>
+		</tr>
+		<tr>
+			<td style="border-bottom: 1pt solid rgb(0, 80, 130); border-top: 1pt solid rgb(0, 80, 130);; border-right: 1pt solid rgb(0, 80, 130);; border-left: 1pt solid rgb(0, 80, 130);">SIGAI</td>
+			<td style="border-bottom: 1pt solid rgb(0, 80, 130); border-top: 1pt solid rgb(0, 80, 130);; border-right: 1pt solid rgb(0, 80, 130);; border-left: 1pt solid rgb(0, 80, 130);">Sistema de Informação para a Gestão de Acordos Internacionais</td>
+		</tr>
+	</tbody>
+</table>         
    
  
 <p id="termos-e-definies"></p>
