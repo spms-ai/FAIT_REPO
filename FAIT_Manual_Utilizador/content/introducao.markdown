@@ -130,9 +130,9 @@ Se o utilizador com o perfil EPSNS possuir mais de uma instituição associada a
 * **Novo utilizador**
 Para que um novo utilizador tenha acesso a aplicação, deve solicitar à equipa de suporte da SPMS, via [servicedesk@spms.min-saude.pt](servicedesk@spms.min-saude.pt), indicando o nome da aplicação do assunto do email [FAIT]. O email deve conter as seguintes informações:
 
-•	Nome de Utilizador;
-•	Email;
-•	Instituição que pertence
+<p>•	Nome de Utilizador;</p>
+<p>•	Email;</p>
+<p>•	Instituição que pertence</p>
 O utilizador receberá um email da equipa de suporte com os dados da nova credencial de acesso.
 
 * **Alterar Senha**
