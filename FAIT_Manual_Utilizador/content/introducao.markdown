@@ -127,15 +127,18 @@ Se o utilizador com o perfil EPSNS possuir mais de uma instituição associada a
 
 <p class="caption" id="figLoginInst">Selecionar Instituição</p>
 
-* **Novo utilizador**
+<p id="novoUser"></p>
+**Novo utilizador**
 Para que um novo utilizador tenha acesso a aplicação, deve solicitar à equipa de suporte da SPMS, via [servicedesk@spms.min-saude.pt](servicedesk@spms.min-saude.pt), indicando o nome da aplicação do assunto do email [FAIT]. O email deve conter as seguintes informações:
 
-<p>•	Nome de Utilizador;</p>
-<p>•	Email;</p>
-<p>•	Instituição que pertence</p>
+**	Nome de Utilizador;
+**	Email;
+**	Instituição que pertence.
+
 O utilizador receberá um email da equipa de suporte com os dados da nova credencial de acesso.
 
-* **Alterar Senha**
+<p id="altPass"></p>
+**Alterar Senha**
 A aplicação permite que o utilizador altere a sua própria palavra passe, a qualquer momento. Ao carregar no botão das opções avançadas logo, situado no canto superior direito da página, surgirá a opção “Alteração de Senha”.
 
 ![figRecPass](img/capitulo4/4_1RecPass1.png)
@@ -151,7 +154,8 @@ Após clicar em **Alterar palavra-passe** da Senha é apresentada a seguinte pá
 
 O utilizador deve preencher todos os campos e clicar no botão **Alterar**.
 
-* **Recuperar Senha**
+<p id="recPass"></p>
+**Recuperar Senha**
 Se por qualquer motivo, o utilizador precisar de uma nova senha deverá clicar em **Recuperar Senha** e preencher o campo do formulário, com o nome do utilizador, conforme a figura abaixo e clicar em **Enviar**. 
 
 ![figRecPass](img/capitulo4/4_1RecPass3.png)
@@ -160,7 +164,8 @@ Se por qualquer motivo, o utilizador precisar de uma nova senha deverá clicar e
 
 Após a submissão do pedido de recuperação de senha, o utilizador receberá, no email associado ao nome de utilizador submetido, as instruções para reposição da palavra-passe.
 
-* **Terminar Sessão**
+<p id="closesession"></p>
+**Terminar Sessão**
 O utilizador pode sair do sistema a qualquer momento. Para tal, deve clicar no botão Terminar Sessão, representado pelo ícone <img alt="logo" src="img/capitulo4/4_1SessionIcon.png"> , situado no campo superior direito da página. 
 
 
