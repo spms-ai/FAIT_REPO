@@ -89,54 +89,33 @@ Associada à interação com o sistema existe um conjunto de conceitos para os q
 Quer a importação dos ficheiros, ou formulários que permitem a criação ou edição de dados têm um conjunto de regras de negócio e validações para facilitar o preenchimento correto dos dados. Para auxiliar as validações existem 4 tipos de mensagens:
 
 
-* Mensagem de Informação: Representada pelo ícone <img alt="logo" src="img/capitulo4/InfoIcon.jpg">. Tem por objetivo apenas informar ao utilizador.
+* **Mensagem de Informação**: Representada pelo ícone <img alt="logo" src="img/capitulo4/InfoIcon.png">. Tem por objetivo apenas informar ao utilizador.
 
 
-* Mensagem de Alerta: Representada pelo ícone <img alt="logo" src="img/capitulo4/AlertIcon.jpg">. Seu objetivo passa por alertar o utilizador sobre algo. Este tipo de mensagem não impede que o utilizador execute uma ação.
+* **Mensagem de Alerta**: Representada pelo ícone <img alt="logo" src="img/capitulo4/AlertIcon.png">. Seu objetivo passa por alertar o utilizador sobre algo. Este tipo de mensagem não impede que o utilizador execute uma ação.
 
 
-* Mensagem de Erro: Representada pelo ícone <img alt="logo" src="img/capitulo4/ErroIcon.jpg">. Este tipo de mensagem informa ao utilizador que ocorreu algum problema durante a execução de uma ação, e impede que esta ação seja executada até que o problema seja corrigido.
+* **Mensagem de Erro**: Representada pelo ícone <img alt="logo" src="img/capitulo4/ErroIcon.png">. Este tipo de mensagem informa ao utilizador que ocorreu algum problema durante a execução de uma ação, e impede que esta ação seja executada até que o problema seja corrigido.
 
 
-* Mensagem de Sucesso: Representada pelo ícone <img alt="logo" src="img/capitulo4/SucessIcon.jpg">. Apenas informa ao utilizador que a sua ação foi executada com sucesso.
+* **Mensagem de Sucesso**: Representada pelo ícone <img alt="logo" src="img/capitulo4/SucessIcon.png">. Apenas informa ao utilizador que a sua ação foi executada com sucesso.
 
 
 No cabeçalho das páginas do **FAIT** existe um conjunto de dados que pretende informar e contextualizar o utilizador: 
 
-Aparece na primeira linha é mostrado o perfil do utilizador e, caso este pertença a uma entidade, é mostrado o nome desta. Na segunda linha aparece o nome do utilizador.
+*	Nome do utilizador;
+*	Nome da entidade prestadora associada ao utilizador;
+*	Botão das opções avançadas. Ao clicar neste, o utilizador tem acesso a opção de alterar a sua palavra-passe.
 
-Ao lado do nome de utilizador, encontra-se o botão das opções avançadas ([](#figDef)). Ao clicar no referido botão, o utilizador tem acesso a um 
-conjunto de opções relativas ao perfil do utilizador, tais como: alterar password ([4.2. Alteração da senha](#alterao-da-senha)) e a criação de utilizadores ([4.3. Gestão de utilizadores](#gesto-de-utilizadores)). 
-De referir que a opção de Gestão de Utilizadores também está disponível no menu principal da aplicação caso o utilizador tenha permissões para tal ([](#fig_menu_ADMIN_entidade)).
 
-![figDef](img/definicao.png)
+## 4.1. Aceder ao FAIT
 
-<p class="caption" id="figDef"> Botão das opções avançadas. </p>
+O acesso ao FAIT é realizado através da navegação ao endereço em [https://fait.min-saude.pt/](https://fait.min-saude.pt/) num *browser# de internet.
+Ao aceder à plataforma FAIT irá surgir a página que aparece na figura abaixo. 
 
-A qualquer momento, em qualquer página existe possibilidade de o utilizador consultar o manual de utilizador através de um botão no canto superior direito ([](#figManual)).
+![figLogin](img/capitulo4/4_1Login.jpg)
 
-![figManual](img/manual.jpg)
-
-<p class="caption" id="figManual"> Botão que permite o acesso ao manual de utilizador. </p>
-
-O acesso às páginas e a sua navegação é representada nos panéis de navegação ([](#figPN)). 
-Estes são clicáveis o que permite ao utilizador voltar a uma página já navegada.
-
-![figPN](img/breadcrumbs.jpg)
-
-<p class="caption" id="figPN"> Painel de navegação. </p>
-
-De modo a familiarizar o utilizador com a aplicação, apresentam-se, de seguida, alguns exemplos ilustrativos de ações fundamentais para interagir com o SGES.
-
-<p id="aceder-ao-sges"></p>
-## 4.1. Aceder ao SGES
-
-O acesso ao SGES é realizado através da navegação até ao seu endereço em [http://sges.min-saude.pt/SGES/login.html](http://sges.min-saude.pt/SGES/login.html) num *browser* de internet.
-Quando a página do SGES é carregada, o utilizador tem de inserir as suas credenciais de *login* [](#figLogin) para aceder à aplicação.
-
-![figLogin](img/pages/5_1_1.jpg)
-
-<p class="caption" id="figLogin">Página de acesso do SGES </p>
+<p class="caption" id="figLogin">Página de acesso do FAIT </p>
 
 Caso o utilizador conheça as suas credenciais, deve preencher os campos obrigatórios, e clicar em **Avançar**.
 
