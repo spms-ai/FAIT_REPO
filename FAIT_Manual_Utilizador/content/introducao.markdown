@@ -135,14 +135,18 @@ Para que um novo utilizador tenha acesso a aplicação, deve solicitar à equipa
 •	Instituição que pertence
 O utilizador receberá um email da equipa de suporte com os dados da nova credencial de acesso.
 
+* **Alterar Senha**
+A aplicação permite que o utilizador altere a sua própria palavra passe, a qualquer momento. Ao carregar no botão das opções avançadas logo, situado no canto superior direito da página, surgirá a opção “Alteração de Senha”.
 
-|    |  Campos Obrigatórios [](#figLoginRecuperacao) |           
-|----|----------------------------------------|
-| a) | Endereço eletrónico* associado à conta da aplicação ou nome de utilizador|  
+![figRecPass](img/capitulo4/4_1RecPass1.png)
 
-![figLoginRecuperacao](img/pages/5_1_2.jpg)
+<p class="caption" id="figRecPass">Alterar palavra-passe</p>
 
-<p class="caption" id="figLoginRecuperacao"> Recuperação da Senha </p>
+Após clicar em **Alterar palavra-passe** da Senha é apresentada a seguinte página de alteração da password:
+
+![figRecPass](img/capitulo4/4_1RecPass2.png)
+
+<p class="caption" id="figRecPass">Página para alterar a palavra-passe</p>
 
 \* Só será possível recuperar a senha indicando o endereço eletrónico se este estiver associado apenas a um utilizador.
 
