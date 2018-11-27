@@ -113,7 +113,7 @@ No cabeçalho das páginas do **FAIT** existe um conjunto de dados que pretende 
 O acesso ao FAIT é realizado através da navegação ao endereço em [https://fait.min-saude.pt/](https://fait.min-saude.pt/) num *browser# de internet.
 Ao aceder à plataforma FAIT irá surgir a página que aparece na figura abaixo. 
 
-![figLogin](img/capitulo4/4_1Login.jpg)
+![figLogin](img/capitulo4/4_1Login.png)
 
 <p class="caption" id="figLogin">Página de acesso do FAIT </p>
 
