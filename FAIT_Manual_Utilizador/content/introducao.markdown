@@ -97,7 +97,7 @@
 		<li>
 	<strong><a href="#ControlDocu">Controlo do Documento</a></strong> - neste capítulo é identificado o histórico de alterações.<br>
 	</li>
-</ol> 
+</ol>
 
 
 <hr>
