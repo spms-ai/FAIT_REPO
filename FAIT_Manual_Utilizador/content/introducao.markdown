@@ -2,6 +2,7 @@
 layout: default
 title: "Introdução"
 ---
+
 <div id="sobre-este-manual">
 </div>
 <br>
@@ -13,16 +14,15 @@ title: "Introdução"
 
 <ol>
 	<li>
-		<strong><a href="#sobre-este-manual">“Sobre este Manual”</a></strong> - o capítulo presente, que faz uma breve descrição dos capítulos seguintes, nos quais pode ser encontrada a informação de que o utilizador precisa;<br>
+		<strong><a href="#sobre-este-manual">“Sobre este Manual”</a></strong> - o capítulo presente, que faz uma breve descrição dos capítulos seguintes, nos quais pode ser encontrada a informação de que o utilizador precisa.<br>
 	</li>
 
 	<li>
 		<strong><a href="#tabela-de-acrnimos">“Tabela de Acrónimos”</a></strong> - contém todos os acrónimos utilizados ao longo do manual;<br>
 	</li>
-<li>
-		<strong><a href="#introduo">“Enquadramento”</a></strong> - neste capítulo é apresentado o sistema FAIT e os objetivos.<br>
+	<li>
+		<strong><a href="#introduo">“Enquadramento”</a></strong> - neste capítulo é apresentado o sistema FAIT e os objetivos.		<br>
 	</li>
-
 	<li>
 		<strong><a href="#conceitos-bsicos">“Conceitos Básicos”</a></strong> - são explicados os principais conceitos que suportam a aplicação, incluindo os seguintes subcapítulos:
 		<ul>
@@ -35,23 +35,34 @@ title: "Introdução"
 			</li>
 
 			<li>
-				<a href="#alteraPassword">Alteração da Senha</a>, onde o utilizador pode perceber como se muda a <em>password</em>.
+				<a href="#alteraPass">Alteração da Senha</a>, onde o utilizador pode perceber como se muda a <em>password</em>.
 			</li>
 		</ul>
 	</li>
-  
 
-5. **Módulos Perfil EPSNS** – neste capítulo o utilizador visualiza um conjunto de módulos, onde poderá efetuar todas as ações à que possui permissão, incluindo os seguintes subcapítulos:
+		<li>
+		<strong><a href="#sobre-este-manual">“Módulos Perfil EPSNS”</a></strong> - neste capítulo o utilizador visualiza um conjunto de módulos, onde poderá efetuar todas as ações à que possui permissão, incluindo os seguintes subcapítulos:<br>
+		<ul>
+			<li>
+				<a href="#RegistarFatura">Módulo Registar Fatura;</a>
+			</li>
+			<li>
+				<a href="#RegistarFatura">Módulo Importar Fatura;</a>
+			</li>
+			<li>
+				<a href="#RegistarFatura">Módulo Consultar Relatórios de Importação;</a>
+			</li>
+			<li>
+				<a href="#RegistarFatura">Módulo Gestão de Ficheiros;</a>
+			</li>
+			<li>
+				<a href="#RegistarFatura">Módulo Gestão de Faturas.</a>
+			</li>
+		</ul>
+	</li>
+ </ol> 
 
-   * Módulo Registar Fatura;
 
-   * Módulo Importar Fatura;
-
-   * Módulo Consultar Relatórios de Importação;
-
-   * Módulo Gestão de Ficheiros;
-
-   * Módulo Gestão de Faturas.
 
 6. **Módulos Perfil ACSS** - neste capítulo o utilizador visualiza um conjunto de módulos, onde poderá efetuar todas as ações à que possui permissão, incluindo os seguintes subcapítulos:
 
