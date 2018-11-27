@@ -129,19 +129,21 @@
 	</tbody>
 </table>
 
+<hr>
+<div id="termos-e-definies"></div>
+<br>
+<br>
+<h1 id="termos-e-definies">3. Enquadramento</h1>
 
+<p>O presente documento contém a informação necessária para a compreensão das funcionalidades existentes no âmbito do desenvolvimento da validação da Faturação de Acordos Internacionais e Transfronteiriços – FAIT.</p>
 
-   
- 
-<p id="termos-e-definies"></p>
-# 3. Enquadramento
+<p>As funcionalidades foram desenvolvidas para responder à necessidade de validação da informação enviada pelas Entidades Prestadoras de Cuidados de Saúde referente à faturação das despesas com cuidados de saúde dos segurados de outro Estado-Membro ou de país terceiro com o qual Portugal tenha Acordo Bilateral e que para o efeito tenham apresentado um documento de atestado de direito válido.</p>
+<p>O ambiente de execução aplicacional é totalmente baseado e orientado às tecnologias Web, isto é, serão desenvolvidos utilizando a tecnologia Apache Wicket, assegurando que os utilizadores finais podem realizar todas as interações com o sistema através do seguinte browser web:</p>
 
-O presente documento contém a informação necessária para a compreensão das funcionalidades existentes no âmbito do desenvolvimento da validação da Faturação de Acordos Internacionais e Transfronteiriços – FAIT.
-
-As funcionalidades foram desenvolvidas para responder à necessidade de validação da informação enviada pelas Entidades Prestadoras de Cuidados de Saúde referente à faturação das despesas com cuidados de saúde dos segurados de outro Estado-Membro ou de país terceiro com o qual Portugal tenha Acordo Bilateral e que para o efeito tenham apresentado um documento de atestado de direito válido.
-O ambiente de execução aplicacional é totalmente baseado e orientado às tecnologias Web, isto é, serão desenvolvidos utilizando a tecnologia Apache Wicket, assegurando que os utilizadores finais podem realizar todas as interações com o sistema através do seguinte browser web:
-
-* Google Chrome;
+<ul>
+	<li>Google Chrome
+	</li>
+</ul>
 
 Todas as comunicações ao nível da camada de aplicação do Modelo OSI (Open System Interconnection) são realizadas tirando partido do protocolo HTTP/HTTPS.
 O manual apresenta as funcionalidades separadas por tipo de perfil (ACSS e EPSNS) e orienta quanto às regras de validação da informação da faturação dessas despesas, para posterior importação para a área de Despesas Efetivas na vertente de Portugal Credor no SIGAI.
