@@ -148,6 +148,22 @@ Após clicar em **Alterar palavra-passe** da Senha é apresentada a seguinte pá
 
 <p class="caption" id="figRecPass">Página para alterar a palavra-passe</p>
 
+
+O utilizador deve preencher todos os campos e clicar no botão **Alterar**.
+
+* **Recuperar Senha**
+Se por qualquer motivo, o utilizador precisar de uma nova senha deverá clicar em **Recuperar Senha** e preencher o campo do formulário, com o nome do utilizador, conforme a figura abaixo e clicar em **Enviar**. 
+
+![figRecPass](img/capitulo4/4_1RecPass3.png)
+
+<p class="caption" id="figRecPass">Recuperação de senha</p>
+
+Após a submissão do pedido de recuperação de senha, o utilizador receberá, no email associado ao nome de utilizador submetido, as instruções para reposição da palavra-passe.
+
+* **Terminar Sessão**
+O utilizador pode sair do sistema a qualquer momento. Para tal, deve clicar no botão Terminar Sessão, representado pelo ícone <img alt="logo" src="img/capitulo4/4_1SessionIcon.png"> , situado no campo superior direito da página. 
+
+
 \* Só será possível recuperar a senha indicando o endereço eletrónico se este estiver associado apenas a um utilizador.
 
 Junto ao logotipo do SGES, encontra-se o botão de atalho para os diferentes menus [](#figatalho_menu). Este botão permite ao utilizador, em qualquer momento na navegação, mudar para um determinado menu.
