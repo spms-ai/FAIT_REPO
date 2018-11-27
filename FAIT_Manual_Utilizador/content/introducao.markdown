@@ -123,9 +123,9 @@ O utilizador deve, nesta página, inserir as suas credenciais de acesso (Nome de
 
 Se o utilizador com o perfil EPSNS possuir mais de uma instituição associada ao seu perfil, é-lhe solicitado que escolha a instituição que pretende entrar em sessão. Caso o utilizador tenha apenas uma Instituição associada será estabelecida a sessão automaticamente.
 
-![figLogin](img/capitulo4/4_1LoginInst.png)
+![figLoginInst](img/capitulo4/4_1LoginInst.png)
 
-<p class="caption" id="figLogin">Selecionar Instituição</p>
+<p class="caption" id="figLoginInst">Selecionar Instituição</p>
 
 
 
