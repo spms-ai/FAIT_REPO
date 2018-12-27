@@ -23,17 +23,27 @@ O utilizador é então reencaminhado para a página que contém o formulário ut
 
 
 O formulário apresenta-se subdividido em seis painéis:
-• Instituição Remetente;
 * Instituição Remetente;
-• Instituição Devedora;
-• Pedido Individual;
-• Documento Comprovativo do Direito a Prestação;
-• Prestação concedida;
-• Despesa.
+* Instituição Devedora;
+* Pedido Individual;
+* Documento Comprovativo do Direito a Prestação;
+* Prestação concedida;
+* Despesa.
 
 <p id="importarFatura"></p>
 ## 5.2.Módulo Importar Fatura
-O módulo de Importar Fatura, permite ao utilizador com o perfil EPSNS, efetuar a validação e importação de faturas em ficheiro. O utilizador pode aceder a este módulo, na página inicial, ao clicar no seguinte ícone.
+O módulo de Importar Fatura permite ao utilizador com o perfil EPSNS efetuar a validação e importação de faturas em ficheiro. O utilizador pode aceder a este módulo, na página inicial, ao clicar no seguinte ícone.
+
+![figModuloImpFatura](img/capitulo5/5_2ModuloImpFatura.png)
+
+<p class="caption" id="figModuloImpFatura">Módulo Importar Fatura </p>
+
+O utilizador é então reencaminhado para a página que permite a validação e importação de ficheiros.
+
+***Nota:** O processo de importação de faturas é composto por duas fases:*
+* Fase 1: Validação;
+* Fase 2: Importação.
+
 
 
 
