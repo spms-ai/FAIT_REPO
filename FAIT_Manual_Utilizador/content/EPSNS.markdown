@@ -146,12 +146,62 @@ O módulo de Importar Fatura permite ao utilizador com o perfil EPSNS efetuar a 
 <p class="caption" id="figModuloImpFatura">Módulo Importar Fatura </p>
 
 O utilizador é então reencaminhado para a página que permite a validação e importação de ficheiros.
-
+<br/>
 ***Nota:** O processo de importação de faturas é composto por duas fases:*
 * Fase 1: Validação;
 * Fase 2: Importação.
 
+pic
 
+Antes de iniciar o processo de importação de ficheiros, estes devem passar pelo processo de validação. A seguir estão descritos os processos de validação e importação de ficheiros.
+
+***Fase 1: Validar Faturas***
+
+Para realizar o processo de validação de faturas, o utilizador deve carregar no botão “Escolher Ficheiro” (Figura 24) e, de seguida, selecionar o ficheiro que deseja validar.
+
+pic
+
+Com o ficheiro selecionado, carregue no botão “Validar Faturas” (Figura 25) para dar início a validação das faturas que compõem o ficheiro.
+
+pic
+
+Se o processo de validação for concluído sem erros, será apresentada a mensagem “O ficheiro (nome do ficheiro) é válido!” e o resultado deste processo é automaticamente adicionado à tabela desta página. Na demonstração foi utilizado o ficheiro com o nome “FicheiroTeste”. Deste modo, as informações visíveis adicionadas são (Figura 26):
+* Data do carregamento: Data em que o ficheiro iniciou o processo de validação;
+* Nome do ficheiro: Nome do ficheiro a ser validado;
+* Tipo: O E125 refere-se à designação do formulário utilizado para a faturação de migrantes;
+* Validação: Este campo é representado por dois ícones.
+   ** O ficheiro foi validado com sucesso;
+   ** O ficheiro não é váçido e possui erros de validação.
+* Estado: Este campo é representado por dois estados.
+   ** Válido - Ficheiro válido;
+   ** Erro - Ficheiro com erros.
+* Data da importação: A data de importação é apenas preenchida após a importação do ficheiro. Neste momento, o ficheiro apenas foi considerado válido para iniciar a fase de importação.
+* Utilizador: Nome do utilizador que realizou esta tarefa.
+
+pic 
+
+***Nota** Concluído o processo de validação com sucesso, o utilizador deve iniciar a segunda fase, identificada por fase de importação.*
+
+Se no processo de validação do ficheiro ocorrerem problemas, a mensagem apresentada pela aplicação é “O ficheiro (nome do ficheiro) contem erros de validação. Consulte o relatório, corrija os dados e carregue novamente o ficheiro”. O resultado deste processo também é automaticamente adicionado à tabela desta página (Figura 27).
+
+pic
+
+De modo a apoiar na correção dos erros de validação, a aplicação disponibiliza para o utilizador, um relatório com as mensagens de erro decorrentes do processo de validação, o qual informa quais os campos que não estão a respeitar as regras de validação.
+
+O utilizador pode aceder ao relatório de duas formas:
+* **Botão “Consultar Relatório”** – O utilizador deve clicar sobre a linha do ficheiro com erros para que este fique selecionado e carregar no botão Consultar Relatório
+
+pic
+
+A relação dos erros encontrados é apresentada de modo estruturado, sob a forma de uma tabela (Figura 29).
+
+pic
+
+* **Botão “Descarregar Relatório”** - O utilizador deve clicar sobre a linha do ficheiro com erros, para que este fique selecionado, e carregar no botão Descarregar relatório. Será então, feito o download do relatório, ficando guardado no computador do utilizador.
+
+pic
+
+Após aceder ao relatório, o utilizador deve corrigir os erros apresentados e iniciar um novo processo de validação, quantas vezes for necessário, até que o ficheiro seja considerado válido. Pois a aplicação só permite a importação de ficheiros que possuam o estado “Válido”.
 
 
 <p id="consultarRelatorios"></p>
@@ -172,8 +222,7 @@ O módulo de Gestão de Ficheiros permite ao utilizador com o perfil EPSNS, pesq
 
 <p class="caption" id="figModuloGesFicheiros">Módulo Gestão de Ficheiros </p>
 
-O utilizador é, então, reencaminhado para a página que permite a pesquisa e consulta dos
-ficheiros importados da sua instituição.
+O utilizador é, então, reencaminhado para a página que permite a pesquisa e consulta dos ficheiros importados da sua instituição.
 
 <p id="gesFaturasEPSNS"></p>
 ## 5.5.Módulo Gestão de Faturas
