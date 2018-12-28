@@ -102,11 +102,11 @@ Para o preenchimento deste painel o utilizador deve ter em atenção:
 3. Quando o campo “Montante de hospitalização” estiver preenchido, os campos “Data de início da hospitalização” e “Data de fim da hospitalização” passam a ser de preenchimento obrigatório;
 4. Para inserir uma despesa referente às Outras prestações, o utilizador deve primeiro selecionar uma ou mais opções da lista do campo “Outras prestações” para que no campo “Montante de outras prestações” fique disponível a inserção do valor correspondente.
 
-      ***Nota:** Para selecionar uma opção do campo “outras prestações” basta clicar sobre a opção desejada. Contudo, para desmarcar uma opção selecionada, o utilizador deve pressionar a tecla “Ctrl” no teclado e clicar sobre o item selecionado.*
+    ***Nota:** Para selecionar uma opção do campo “outras prestações” basta clicar sobre a opção desejada. Contudo, para desmarcar uma opção selecionada, o utilizador deve pressionar a tecla “Ctrl” no teclado e clicar sobre o item selecionado.*
 
-![figModuloRegFatura](img/capitulo5/5_1ModuloRegFatura.png)
+    ![figModuloRegFatura](img/capitulo5/5_1ModuloRegFatura.png)
 
-<p class="caption" id="figModuloRegFatura">Teste Identação </p>
+    <p class="caption" id="figModuloRegFatura">Teste Identação </p>
 
 5. O campo “Nome ficheiro” deve ser preenchido com uma referência que identifique o registo da fatura e ou um lote de faturas.
 
