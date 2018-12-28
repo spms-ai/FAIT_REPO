@@ -119,6 +119,20 @@ pic
 
    **Voltar:** Caso o utilizador pretenda fechar o formulário de registo de fatura, e não salvar as informações introduzidas, deve selecionar a opção “Voltar”.
    **Gravar:** Caso o utilizador pretenda submeter o formulário de registo de fatura gravando assim os dados no sistema, deve selecionar a opção “Gravar”.
+   a. Se, após a seleção da opção gravar, existirem campos obrigatórios não preenchidos, estes ficam assinalados a vermelho. Serão ainda apresentadas mensagens de erro com a indicação dos campos nos quais devem ser introduzidos valores.
+   
+![figMsgObrigatorio](img/capitulo5/5_1MsgObrigatorio.png)
+
+<p class="caption" id="figMsgObrigatorio">Mensagem de Erro "Campos Obrigatórios"</p>
+   
+   b. Se os campos obrigatórios estiverem corretamente preenchidos e houver problemas na validação do conteúdo de outros campos, a aplicação também irá apresentar mensagens de erro, indicando os campos que precisam ser corrigidos. 
+   
+![figMsgValidacao](img/capitulo5/5_1MsgValidacao.png)
+        
+   c. Se os campos foram todos preenchidos corretamente e não ocorreu nenhum problema na sua validação, a fatura é guardada no sistema e é apresentada uma mensagem a informar que a fatura foi registada com sucesso.
+
+![figMsgSucesso](img/capitulo5/5_1MsgSucesso.png)
+
 
 <p id="importarFatura"></p>
 ## 5.2.Módulo Importar Fatura
