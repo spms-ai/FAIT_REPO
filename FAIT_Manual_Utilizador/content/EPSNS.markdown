@@ -55,10 +55,10 @@ Nessa janela, a pesquisa pela instituição que consta no documento do atestado 
 pic
 
 Para selecionar uma instituição, o utilizador deve:
-1. - Preencher um dos campos de pesquisa. Exemplo: Código 0700;
-2. - Selecionar o botão Pesquisar;
-3. - Clicar sobre a Instituição apresentada no resultado de pesquisa;
-4. - Clicar no botão Selecionar.
+1. Preencher um dos campos de pesquisa. Exemplo: Código 0700;
+2. Selecionar o botão Pesquisar;
+3. Clicar sobre a Instituição apresentada no resultado de pesquisa;
+4. Clicar no botão Selecionar.
 
 pic
 
@@ -98,9 +98,11 @@ pic
 
 Para o preenchimento deste painel o utilizador deve ter em atenção:
 1 - "Número Fatura Credor": Número da fatura emitida pela Instituição que prestou os cuidados de saúde;
+
 2 - Os campos referentes aos montantes de cuidados médicos, cuidados dentários, medicamentos, hospitalização, cuidados de longa duração e outras prestações devem ser preenchidos quando houver despesa relacionada a algum deles;
-3 - Quando o campo “Montante de hospitalização” estiver preenchido, os campos “Data de início da hospitalização” e “Data de fim da hospitalização” passam a ser de preenchimento obrigatório;
-4 -  Para inserir uma despesa referente às Outras prestações, o utilizador deve primeiro selecionar uma ou mais opções da lista do campo “Outras prestações” para que no campo “Montante de outras prestações” fique disponível a inserção do valor correspondente.
+
+3. Quando o campo “Montante de hospitalização” estiver preenchido, os campos “Data de início da hospitalização” e “Data de fim da hospitalização” passam a ser de preenchimento obrigatório;
+4.  Para inserir uma despesa referente às Outras prestações, o utilizador deve primeiro selecionar uma ou mais opções da lista do campo “Outras prestações” para que no campo “Montante de outras prestações” fique disponível a inserção do valor correspondente.
 
 ***Nota:*** *Para selecionar uma opção do campo “outras prestações” basta clicar sobre a opção desejada. Contudo, para desmarcar uma opção selecionada, o utilizador deve pressionar a tecla “Ctrl” no teclado e clicar sobre o item selecionado. *
 
