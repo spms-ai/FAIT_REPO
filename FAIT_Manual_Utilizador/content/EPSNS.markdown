@@ -110,11 +110,11 @@ Para o preenchimento deste painel o utilizador deve ter em atenção:
 
 5. O campo “Nome ficheiro” deve ser preenchido com uma referência que identifique o registo da fatura e ou um lote de faturas.
 
-     ***Nota:*** *Para selecionar uma opção do campo “outras prestações” basta clicar sobre a opção desejada. Contudo, para desmarcar uma opção selecionada, o utilizador deve pressionar a tecla “Ctrl” no teclado e clicar sobre o item selecionado.*
+     ***Nota:*** *Para selecionar uma opção do campo “outras prestações” basta clicar sobre a opção desejada. Contudo, para desmarcar uma opção selecionada, o utilizador deve pressionar a tecla “Ctrl” no teclado e clicar sobre o item selecionado.* \
       
      Para finalizar o processo de introdução de uma nova fatura, deve selecionar uma das opções “Voltar” ou “Gravar”:
 
-     pic
+     ![figVoltarGravar](img/capitulo5/5_1VoltarGravar.png)
 
      **Voltar:** Caso o utilizador pretenda fechar o formulário de registo de fatura, e não salvar as informações introduzidas,                     deve selecionar a opção “Voltar”. 
    
