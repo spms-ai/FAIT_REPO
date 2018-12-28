@@ -39,7 +39,7 @@ O módulo de Importar Fatura permite ao utilizador com o perfil EPSNS efetuar a 
 <p class="caption" id="figModuloImpFatura">Módulo Importar Fatura </p>
 
 O utilizador é então reencaminhado para a página que permite a validação e importação de ficheiros.
-
+<p></p>
 ***Nota:** O processo de importação de faturas é composto por duas fases:*
 * Fase 1: Validação;
 * Fase 2: Importação.
@@ -51,11 +51,30 @@ O utilizador é então reencaminhado para a página que permite a validação e 
 ## 5.3.Módulo Consultar Relatórios de Importação
 O módulo de Consultar Relatórios de Importação permite ao utilizador com o perfil EPSNS, pesquisar e consultar os relatórios de ficheiros que tiveram problemas durante o processo de importação. O utilizador pode aceder a este módulo, na página inicial, ao clicar no seguinte ícone.
 
+![figModuloConsRelatorio](img/capitulo5/5_3ModuloConsRelatorio.png)
 
+<p class="caption" id="figModuloConsRelatorio">Módulo Consultar Relatórios de Importação </p>
+
+O utilizador é, então, reencaminhado para a página que permite a pesquisa e consulta dos relatórios de importação.
 
 <p id="gesFicheirosEPSNS"></p>
 ## 5.4.Módulo Gestão de Ficheiros
+O módulo de Gestão de Ficheiros permite ao utilizador com o perfil EPSNS, pesquisar e consultar o estado dos ficheiros importados da sua instituição. O utilizador pode aceder a este módulo, na página inicial, ao clicar no seguinte ícone.
 
+![figModuloGesFicheiros](img/capitulo5/5_4ModuloGesFicheiros.png)
+
+<p class="caption" id="figModuloGesFicheiros">Módulo Gestão de Ficheiros </p>
+
+O utilizador é, então, reencaminhado para a página que permite a pesquisa e consulta dos
+ficheiros importados da sua instituição.
 
 <p id="gesFaturasEPSNS"></p>
 ## 5.5.Módulo Gestão de Faturas
+O módulo de Gestão de Faturas permite ao utilizador com o perfil EPSNS, pesquisar, consultar e editar faturas de ficheiros importados da sua instituição. O utilizador pode aceder a este módulo, na página inicial, ao clicar no seguinte ícone.
+
+
+![figModuloGesFaturas](img/capitulo5/5_5ModuloGesFaturas.png)
+
+<p class="caption" id="figModuloGesFaturas">Módulo Gestão de Faturas </p>
+
+O utilizador é então reencaminhado para a página que permite a pesquisa, consulta e edição de faturas da sua instituição
