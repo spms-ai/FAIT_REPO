@@ -117,6 +117,9 @@ Para finalizar o processo de introdução de uma nova fatura, deve selecionar um
 pic
 
 
+   **Voltar:** Caso o utilizador pretenda fechar o formulário de registo de fatura, e não salvar as informações introduzidas, deve selecionar a opção “Voltar”.
+   **Gravar:** Caso o utilizador pretenda submeter o formulário de registo de fatura gravando assim os dados no sistema, deve selecionar a opção “Gravar”.
+
 <p id="importarFatura"></p>
 ## 5.2.Módulo Importar Fatura
 O módulo de Importar Fatura permite ao utilizador com o perfil EPSNS efetuar a validação e importação de faturas em ficheiro. O utilizador pode aceder a este módulo, na página inicial, ao clicar no seguinte ícone.
