@@ -146,7 +146,9 @@ O módulo de Importar Fatura permite ao utilizador com o perfil EPSNS efetuar a 
 <p class="caption" id="figModuloImpFatura">Módulo Importar Fatura </p>
 
 O utilizador é então reencaminhado para a página que permite a validação e importação de ficheiros.
+
 <br/>
+
 ***Nota:** O processo de importação de faturas é composto por duas fases:*
 * Fase 1: Validação;
 * Fase 2: Importação.
@@ -154,6 +156,8 @@ O utilizador é então reencaminhado para a página que permite a validação e 
 pic
 
 Antes de iniciar o processo de importação de ficheiros, estes devem passar pelo processo de validação. A seguir estão descritos os processos de validação e importação de ficheiros.
+
+<br/>
 
 ***Fase 1: Validar Faturas***
 
@@ -170,17 +174,19 @@ Se o processo de validação for concluído sem erros, será apresentada a mensa
 * Nome do ficheiro: Nome do ficheiro a ser validado;
 * Tipo: O E125 refere-se à designação do formulário utilizado para a faturação de migrantes;
 * Validação: Este campo é representado por dois ícones.
-   ** O ficheiro foi validado com sucesso;
-   ** O ficheiro não é váçido e possui erros de validação.
+    * (pic) O ficheiro foi validado com sucesso;
+    * (pic) O ficheiro não é váçido e possui erros de validação.
 * Estado: Este campo é representado por dois estados.
-   ** Válido - Ficheiro válido;
-   ** Erro - Ficheiro com erros.
+    * Válido - Ficheiro válido;
+    * Erro - Ficheiro com erros.
 * Data da importação: A data de importação é apenas preenchida após a importação do ficheiro. Neste momento, o ficheiro apenas foi considerado válido para iniciar a fase de importação.
 * Utilizador: Nome do utilizador que realizou esta tarefa.
 
 pic 
 
 ***Nota** Concluído o processo de validação com sucesso, o utilizador deve iniciar a segunda fase, identificada por fase de importação.*
+
+<br/>
 
 Se no processo de validação do ficheiro ocorrerem problemas, a mensagem apresentada pela aplicação é “O ficheiro (nome do ficheiro) contem erros de validação. Consulte o relatório, corrija os dados e carregue novamente o ficheiro”. O resultado deste processo também é automaticamente adicionado à tabela desta página (Figura 27).
 
@@ -202,6 +208,10 @@ pic
 pic
 
 Após aceder ao relatório, o utilizador deve corrigir os erros apresentados e iniciar um novo processo de validação, quantas vezes for necessário, até que o ficheiro seja considerado válido. Pois a aplicação só permite a importação de ficheiros que possuam o estado “Válido”.
+
+<br/>
+
+***Nota**: Os detalhes do relatório de erro, bem como as regras de validação são apresentados no <a href="#">Capítulo 7</a> deste documento.
 
 
 <p id="consultarRelatorios"></p>
