@@ -129,7 +129,7 @@ Para o preenchimento deste painel o utilizador deve ter em atenção:
       <p class="caption" id="figMsgObrigatorio">Mensagem de Erro "Campos Obrigatórios"</p>
    
       b. Se os campos obrigatórios estiverem corretamente preenchidos e houver problemas na validação do conteúdo de outros campos, a aplicação também irá apresentar mensagens de erro, indicando os campos que precisam ser corrigidos. 
-   
+
       ![figMsgValidacao](img/capitulo5/5_1MsgValidacao.png)
         
       c. Se os campos foram todos preenchidos corretamente e não ocorreu nenhum problema na sua validação, a fatura é guardada no sistema e é apresentada uma mensagem a informar que a fatura foi registada com sucesso.
