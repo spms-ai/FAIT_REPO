@@ -104,7 +104,9 @@ Para o preenchimento deste painel o utilizador deve ter em atenção:
 
       ***Nota:** Para selecionar uma opção do campo “outras prestações” basta clicar sobre a opção desejada. Contudo, para desmarcar uma opção selecionada, o utilizador deve pressionar a tecla “Ctrl” no teclado e clicar sobre o item selecionado.
 
-pic
+![figModuloRegFatura](img/capitulo5/5_1ModuloRegFatura.png)
+
+<p class="caption" id="figModuloRegFatura">Teste Identação </p>
 
 5. O campo “Nome ficheiro” deve ser preenchido com uma referência que identifique o registo da fatura e ou um lote de faturas.
 
