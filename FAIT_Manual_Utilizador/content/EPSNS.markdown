@@ -211,8 +211,19 @@ Após aceder ao relatório, o utilizador deve corrigir os erros apresentados e i
 
 <br/>
 
-***Nota**: Os detalhes do relatório de erro, bem como as regras de validação são apresentados no <a href="#">Capítulo 7</a> deste documento.
+***Nota**: Os detalhes do relatório de erro, bem como as regras de validação são apresentados no <a href="#">Capítulo 7</a> deste documento.*
 
+<br/>
+
+***Fase 2: Importar Faturas***
+
+Para realizar o processo de importação, o utilizador deve clicar sobre a linha do ficheiro no estado válido, de modo a que este fique selecionado, e em seguida, carregar no botão “Importar” (Figura 31).
+
+pic
+
+Concluído o processo de importação será apresentada ao utilizador a mensagem “A importação foi concluída com sucesso.”, que significa que todas as faturas foram inseridas no FAIT. Desta forma, o processo de importação de faturas por parte do utilizador com o perfil EPSNS, está finalizado.
+
+pic
 
 <p id="consultarRelatorios"></p>
 ## 5.3.Módulo Consultar Relatórios de Importação
@@ -223,6 +234,24 @@ O módulo de Consultar Relatórios de Importação permite ao utilizador com o p
 <p class="caption" id="figModuloConsRelatorio">Módulo Consultar Relatórios de Importação </p>
 
 O utilizador é, então, reencaminhado para a página que permite a pesquisa e consulta dos relatórios de importação.
+
+pic
+
+O utilizador poderá pesquisar por relatórios que pertençam à sua entidade, podendo aplicar filtros por nome do ficheiro, semestre e ano.
+
+Os campos “Instituição” e “Estado” são automaticamente preenchidos pelo sistema. A instituição é sempre aquela a que o utilizador está associado. Para pesquisar por um relatório, o utilizador deve selecionar o botão “Pesquisar”.
+
+O utilizador pode optar por utilizar um dos seguintes filtros de pesquisa:
+* **Nome do ficheiro** – Deve preencher com o nome do ficheiro que deseja pesquisar;
+* **Semestre** - O sistema apresentará, como opções de filtro, os números 1 e 2, que correspondem ao 1º e 2º semestre;
+* **Ano** – O utilizador pode selecionar um dos anos apresentados pelo sistema.
+
+Caso não tenha sido aplicado nenhum filtro, a pesquisa devolverá todos os relatórios de importação de ficheiros que tiveram problema no processo de validação da sua instituição.
+
+Após a pesquisa realizada, o utilizador deve clicar sobre a linha do ficheiro, para que este fique selecionado e em seguida, selecionar um dos botões: “Consultar Relatório” ou “Descarregar Relatório”. Assim, fica então disponibilizado o relatório de importação.
+
+pic
+
 
 <p id="gesFicheirosEPSNS"></p>
 ## 5.4.Módulo Gestão de Ficheiros
