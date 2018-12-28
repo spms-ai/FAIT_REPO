@@ -211,7 +211,7 @@ Após aceder ao relatório, o utilizador deve corrigir os erros apresentados e i
 
 <br/>
 
-***Nota**: Os detalhes do relatório de erro, bem como as regras de validação são apresentados no <a href="#">Capítulo 7</a> deste documento.*
+***Nota**: Os detalhes do relatório de erro, bem como as regras de validação são apresentados no Capítulo 7 deste documento.*
 
 <br/>
 
