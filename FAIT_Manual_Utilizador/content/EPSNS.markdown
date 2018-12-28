@@ -117,11 +117,11 @@ Para finalizar o processo de introdução de uma nova fatura, deve selecionar um
 pic
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;**Voltar:** Caso o utilizador pretenda fechar o formulário de registo de fatura, e não salvar as informações introduzidas,    deve selecionar a opção “Voltar”.
+<p>&nbsp;&nbsp;&nbsp;&nbsp;**Voltar:** Caso o utilizador pretenda fechar o formulário de registo de fatura, e não salvar as informações introduzidas,    deve selecionar a opção “Voltar”. </p>
    
-&nbsp;&nbsp;&nbsp;&nbsp;**Gravar:** Caso o utilizador pretenda submeter o formulário de registo de fatura gravando assim os dados no sistema, deve selecionar a opção “Gravar”.
+<p>&nbsp;&nbsp;&nbsp;&nbsp;**Gravar:** Caso o utilizador pretenda submeter o formulário de registo de fatura gravando assim os dados no sistema, deve selecionar a opção “Gravar”.</p>
       
-   a. Se, após a seleção da opção gravar, existirem campos obrigatórios não preenchidos, estes ficam assinalados a vermelho. Serão ainda apresentadas mensagens de erro com a indicação dos campos nos quais devem ser introduzidos valores.
+<p>&nbsp;&nbsp;&nbsp;&nbsp;a. Se, após a seleção da opção gravar, existirem campos obrigatórios não preenchidos, estes ficam assinalados a vermelho. Serão ainda apresentadas mensagens de erro com a indicação dos campos nos quais devem ser introduzidos valores. </p>
    
 ![figMsgObrigatorio](img/capitulo5/5_1MsgObrigatorio.png)
 
