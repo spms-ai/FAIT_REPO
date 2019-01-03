@@ -263,6 +263,22 @@ O módulo de Gestão de Ficheiros permite ao utilizador com o perfil EPSNS, pesq
 
 O utilizador é, então, reencaminhado para a página que permite a pesquisa e consulta dos ficheiros importados da sua instituição.
 
+pic
+
+O utilizador poderá pesquisar por ficheiros que pertençam à sua entidade, podendo aplicar filtros.
+
+O campo “Instituição” é automaticamente preenchido pelo sistema. A instituição é sempre aquela a que o utilizador está associado. Para pesquisar por um ficheiro, o utilizador deve selecionar o botão “Pesquisar”.
+
+O utilizador pode optar por utilizar os seguintes filtros de pesquisa:
+* **Nome do ficheiro** – Corresponde ao nome do ficheiro;
+* **Estado** - O sistema apresentará, como opções de filtro, os estados:
+    * Válido - O fihceiro está válido para ser integrado no SIGAI;
+    * Integrado - O ficheiro já foi integrado no SIGAI;   
+    * Não Integrado - O ficheiro não será integrado no SIGAI.   
+* **Semestre** - O sistema apresentará, como opções de filtro, os números 1 e 2, que correspondem ao 1º e 2º semestre;
+* **Ano** – O utilizador pode selecionar um dos anos apresentados pelo sistema.
+
+
 <p id="gesFaturasEPSNS"></p>
 ## 5.5.Módulo Gestão de Faturas
 O módulo de Gestão de Faturas permite ao utilizador com o perfil EPSNS, pesquisar, consultar e editar faturas de ficheiros importados da sua instituição. O utilizador pode aceder a este módulo, na página inicial, ao clicar no seguinte ícone.
