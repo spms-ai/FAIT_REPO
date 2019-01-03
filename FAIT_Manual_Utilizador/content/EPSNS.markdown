@@ -278,6 +278,15 @@ O utilizador pode optar por utilizar os seguintes filtros de pesquisa:
 * **Semestre** - O sistema apresentará, como opções de filtro, os números 1 e 2, que correspondem ao 1º e 2º semestre;
 * **Ano** – O utilizador pode selecionar um dos anos apresentados pelo sistema.
 
+Caso não tenha sido aplicado nenhum filtro, a pesquisa devolverá todos os relatórios de importação de ficheiros que tiveram problema no processo de validação da sua instituição. Se após o preenchimento de pelo menos um dos campos de pesquisa, não existirem registos no sistema correspondentes aos critérios pesquisados, é apresentada uma mensagem de “Não foram encontrados registos com os critérios de procura inseridos”, conforme figura abaixo.
+
+pic
+
+Através da tabela de resultados da pesquisa de ficheiro, o utilizador consulta o estado atual do ficheiro importado pela sua instituição, como também, o número de faturas e o montante total das faturas que dele fazem parte.
+
+pic
+
+
 
 <p id="gesFaturasEPSNS"></p>
 ## 5.5.Módulo Gestão de Faturas
@@ -288,4 +297,28 @@ O módulo de Gestão de Faturas permite ao utilizador com o perfil EPSNS, pesqui
 
 <p class="caption" id="figModuloGesFaturas">Módulo Gestão de Faturas </p>
 
-O utilizador é então reencaminhado para a página que permite a pesquisa, consulta e edição de faturas da sua instituição
+O utilizador é então reencaminhado para a página que permite a pesquisa, consulta e edição de faturas da sua instituição.
+
+pic
+
+O utilizador poderá pesquisar por faturas que pertençam à sua entidade, podendo aplicar filtros para o efeito.
+
+O campo “Instituição” é automaticamente preenchido pelo sistema. A instituição é sempre aquela a que o utilizador está associado. Para pesquisar por uma fatura, o utilizador deve selecionar o botão “Pesquisar”.
+
+O utilizador pode optar por utilizar os seguintes filtros de pesquisa:
+* **Nome do ficheiro** – Corresponde ao nome do ficheiro em que constava a fatura;
+* **Estado** - O sistema apresentará, como opções de filtro, os seguintes estados:
+    * Válida - A fatura é válida para ser integrada no SIGAI;
+    * Integrada - A fatura já foi integrada no SIGAI;   
+    * Não Integrada - A fatura não será integrada no SIGAI.   
+* **Fatura IC** - Corresponde ao número de fatura atribuído pela Instituição;
+* **País** - Corresponde ao país competente responsável pela emissão do documento de Atestado de Direito. O utilizador pode selecionar um dos países apresentados pelo sistema;
+* **Semestre** - O sistema apresentará, como opções de filtro, os números 1 e 2, que correspondem ao 1º e 2º semestre;
+* **Ano** – O utilizador pode selecionar um dos anos apresentados pelo sistema;
+* **Nome** - Corresponde ao nome da pessoa que recebeu os cuidados de saúde.
+
+Caso não tenha sido aplicado nenhum filtro, a pesquisa devolverá todas as faturas registadas ou importadas da sua instituição. Se após o preenchimento de pelo menos um dos campos de pesquisa, não existirem registos no sistema correspondentes aos critérios pesquisados, é apresentada uma mensagem de “Não foram encontrados registos com os critérios de procura inseridos”, conforme figura abaixo.
+
+pic
+
+
