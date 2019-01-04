@@ -327,7 +327,7 @@ pic 41
 
 O módulo Gestão de Faturas permite ainda ao utilizador com o perfil EPSNS, a consulta e edição de faturas.
 
-***Consultar Faturas** 
+***Consultar Faturas*** 
 
 Para visualizar uma fatura, o utilizador deve clicar sobre a linha da fatura que pretende visualizar, para que esta fique selecionada e posteriormente carregar no botão “Consultar”.
 
@@ -340,7 +340,7 @@ pic
 A opção “Consultar” apenas apresenta os dados do formulário da fatura em questão, sob a forma de consulta, não sendo permitida a alteração de nenhum dos seus campos.
 Deverá selecionar a opção “Voltar” para fechar o formulário, e retomar à pesquisa anteriormente efetuada.
 
-***Editar Faturas** 
+***Editar Faturas*** 
 
 Para editar uma fatura, o utilizador deve clicar sobre a linha da fatura que pretende editar, para que esta fique selecionada e carregar no botão “Editar”. Esta opção encontra-se ativa apenas para faturas com o estado “Válida”.
 
@@ -356,9 +356,9 @@ Para finalizar o processo de edição de uma fatura, deve selecionar uma das op�
 
 pic
 
-   **Cancelar:** Caso o utilizador pretenda fechar o formulário de registo de fatura, e não salvar a informação dos campos editados, deve selecionar a opção “Cancelar”.  
+    **Cancelar:** Caso o utilizador pretenda fechar o formulário de registo de fatura, e não salvar a informação dos campos editados, deve selecionar a opção “Cancelar”.  
    
-   **Alterar:** Caso o utilizador pretenda alterar o formulário de registo de fatura, gravando assim os dados no sistema, deve selecionar a opção “Alterar”.
+    **Alterar:** Caso o utilizador pretenda alterar o formulário de registo de fatura, gravando assim os dados no sistema, deve selecionar a opção “Alterar”.
       
       a. Se, após a seleção da opção **Alterar**, existirem campos obrigatórios não preenchidos, estes ficam assinalados a vermelho. Serão ainda apresentadas mensagens de erro com a indicação dos campos nos quais devem ser introduzidos valores.
       
@@ -366,7 +366,7 @@ pic
 
       <p class="caption" id="figMsgObrigatorio">Mensagem de Erro "Campos Obrigatórios"</p>
       
-      b.	Se os campos obrigatórios estiverem corretamente preenchidos e houver problemas na validação do conteúdo de outros campos, a aplicação também irá apresentar mensagens de erro, indicando os campos que precisam ser corrigidos.
+      b. Se os campos obrigatórios estiverem corretamente preenchidos e houver problemas na validação do conteúdo de outros campos, a aplicação também irá apresentar mensagens de erro, indicando os campos que precisam ser corrigidos.
       
     ![figMsgValidacao](img/capitulo5/5_1MsgValidacao.png)
       
