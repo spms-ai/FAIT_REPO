@@ -321,4 +321,57 @@ Caso não tenha sido aplicado nenhum filtro, a pesquisa devolverá todas as fatu
 
 pic
 
+Através da tabela de resultados da pesquisa de faturas, o utilizador consegue visualizar o estado atual da fatura da sua instituição, como também, o nome e número de identificação pessoal do Segurado e o montante total da fatura.
 
+pic 41 
+
+O módulo Gestão de Faturas permite ainda ao utilizador com o perfil EPSNS, a consulta e edição de faturas.
+
+* **Consultar Faturas** 
+
+Para visualizar uma fatura, o utilizador deve clicar sobre a linha da fatura que pretende visualizar, para que esta fique selecionada e posteriormente carregar no botão “Consultar”.
+
+pic
+
+Em seguida, é apresentado o formulário da fatura selecionada, conforme imagem abaixo.
+
+pic
+
+A opção “Consultar” apenas apresenta os dados do formulário da fatura em questão, sob a forma de consulta, não sendo permitida a alteração de nenhum dos seus campos.
+Deverá selecionar a opção “Voltar” para fechar o formulário, e retomar à pesquisa anteriormente efetuada.
+
+* **Editar Faturas** 
+
+Para editar uma fatura, o utilizador deve clicar sobre a linha da fatura que pretende editar, para que esta fique selecionada e carregar no botão “Editar”. Esta opção encontra-se ativa apenas para faturas com o estado “Válida”.
+
+pic
+
+Em seguida, é apresentado o formulário da fatura selecionada, conforme imagem abaixo. 
+
+pic
+
+O sistema permite a edição de todos os campos da fatura, à exceção dos campos que fazem parte do painel “Instituição Remetente”. A instituição é sempre aquela a que o utilizador está associado, portanto, o sistema não permite que o utilizador associado a uma instituição crie ou edite faturas de outra instituição.
+
+Para finalizar o processo de edição de uma fatura, deve selecionar uma das opções “Cancelar” ou “Alterar”:
+
+pic
+
+     **Cancelar:** Caso o utilizador pretenda fechar o formulário de registo de fatura, e não salvar a informação dos campos editados, deve selecionar a opção “Cancelar”.  
+   
+     **Alterar:** Caso o utilizador pretenda alterar o formulário de registo de fatura, gravando assim os dados no sistema, deve selecionar a opção “Alterar”.
+      
+      a. Se, após a seleção da opção **Alterar**, existirem campos obrigatórios não preenchidos, estes ficam assinalados a vermelho. Serão ainda apresentadas mensagens de erro com a indicação dos campos nos quais devem ser introduzidos valores.
+      
+      ![figMsgObrigatorio](img/capitulo5/5_1MsgObrigatorio.png)
+
+      <p class="caption" id="figMsgObrigatorio">Mensagem de Erro "Campos Obrigatórios"</p>
+      
+      b.	Se os campos obrigatórios estiverem corretamente preenchidos e houver problemas na validação do conteúdo de outros campos, a aplicação também irá apresentar mensagens de erro, indicando os campos que precisam ser corrigidos.
+      
+    ![figMsgValidacao](img/capitulo5/5_1MsgValidacao.png)
+      
+      c. Se os campos foram todos preenchidos corretamente e não ocorreu nenhum problema na sua validação, a fatura é guardada no sistema e é apresentada uma mensagem a informar que a fatura foi registada com sucesso.
+      
+      pic
+      
+      
