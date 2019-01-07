@@ -33,7 +33,7 @@ $('tr').each(function(){
  function zommClickImagem() {
 	 $('#paginas p>img:not([alt="logo"])').each(function(){
 		 var alt = $(this).attr("alt")
-		 if(alt != "figAlteracaoSenha" && alt != "figLogin" && alt !="figLoginRecuperacao" && alt != "figFT" && alt != "figacordos_convencoes" && alt != "figDef" && alt != "figManual" && alt != "figModuloRegFatura" && alt != "figModuloImpFatura" && alt != "figModuloConsRelatorio" && alt != "figModuloGesFicheiros" && alt != "figModuloGesFaturas" && alt != "figVoltarGravar" && alt != "figModulosEPSNS" && alt != "figMsgObrigatorio" && alt !="figMsgValidacao" && alt != "figMsgSucesso" && alt !="figModulosACSS" && alt !="figModuloGesFicheirosACSS" && alt !="figPaginaGesFicheirosACSS" && alt !="figModuloGesFaturasACSS")
+		 if(alt != "figAlteracaoSenha" && alt != "figLogin" && alt !="figLoginRecuperacao" && alt != "figFT" && alt != "figacordos_convencoes" && alt != "figDef" && alt != "figManual" && alt != "figModuloRegFatura" && alt != "figModuloImpFatura" && alt != "figModuloConsRelatorio" && alt != "figModuloGesFicheiros" && alt != "figModuloGesFaturas" && alt != "figVoltarGravar" && alt != "figModulosEPSNS" && alt != "figMsgObrigatorio" && alt !="figMsgValidacao" && alt != "figMsgSucesso" && alt !="figModulosACSS" && alt !="figModuloGesFicheirosACSS" && alt !="figPaginaGesFicheirosACSS" && alt !="figModuloGesFaturasACSS" && alt !="figPaginaGesFaturasACSS")
 		 $(this).wrap("<a class='imagem' href='"+$(this).attr( "src" ) + "' onclick='return hs.expand(this)'></a>"); 
 });
 }
