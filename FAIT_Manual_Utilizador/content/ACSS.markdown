@@ -142,5 +142,30 @@ Através da tabela de resultados da pesquisa de faturas, o utilizador consegue v
 
 pic
 
+***Consultar Faturas***
 
+Para visualizar uma fatura, o utilizador deve clicar sobre a linha da fatura para que esta fique selecionada, e carregar no botão “Consultar”.
 
+pic
+
+Em seguida, é apresentado o formulário da fatura selecionada, conforme imagem abaixo.
+
+pic
+
+A opção “Consultar” apenas apresenta os dados do formulário da fatura em questão, sob a forma de consulta, não sendo permitida a alteração em nenhum dos seus campos.
+
+Deve selecionar a opção “Voltar” para fechar o formulário, e retomar à pesquisa anteriormente efetuada.
+
+***Editar Faturas***
+
+Para editar uma fatura, o utilizador deve clicar sobre a linha da fatura para que esta fique selecionada e carregar no botão “Editar”. Esta opção encontra-se ativa apenas para faturas com o estado “Válida”.
+
+pic
+
+Em seguida, é apresentado o formulário da fatura selecionada.
+
+pic 
+
+O sistema permite ao utilizador com o perfil ACSS, a edição de todos os campos das faturas importadas ou registadas no sistema, desde que essas faturas possuam o estado “Válida”.
+
+Para finalizar o processo de edição de uma fatura, deve selecionar uma das opções “Cancelar” ou “Alterar”:
