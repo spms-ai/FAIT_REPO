@@ -331,7 +331,9 @@ O menu principal terá disponível um determinado conjunto de módulos de acordo
 				<li>Validar ficheiros no estado não válido; </li>
 				<li>Integrar ficheiros no estado válida. </li>
 				</ul>
-			</td>
+			</td>		
+		</tr>
+		<tr>
 			<td>
 				<ul>
 				<li>Gestão de Faturas</li>
@@ -345,7 +347,7 @@ O menu principal terá disponível um determinado conjunto de módulos de acordo
 				<li>Validar faturas no estado não válido; </li>
 				<li>Integrar faturas no estado válida. </li>
 				</ul>
-			</td>	
+			</td>
 		</tr>
 	</tbody>		
 </table>
