@@ -244,8 +244,7 @@ O menu principal terá disponível um determinado conjunto de módulos de acordo
 |Perfil|  Módulo                               |Permissões|           
 |------|---------------------------------------|----------|
 |EPSNS | **Registar Fatura**                   | **Inserir fatura através do preenchimento manual do formulário S080 (E125).** |
-|      | **Importar Fatura**                   | **Validar informação das faturas no ficheiro;** <p> **Importar Faturas em ficheiros. </p> |
-|      | **Consultar Relatórios de Importação**||
+|      | **Importar Fatura**                   | **Validar informação das faturas no ficheiro;** **Importar Faturas em ficheiros.** ||   |      | **Consultar Relatórios de Importação**||
 |      | **Gestão de Ficheiros**               | | 
 |      | **Gestão de Faturas**                 | |
 |------|---------------------------------------| |
