@@ -157,7 +157,7 @@ Associada à interação com o sistema existe um conjunto de conceitos para os q
 Quer a importação dos ficheiros, ou formulários que permitem a criação ou edição de dados têm um conjunto de regras de negócio e validações para facilitar o preenchimento correto dos dados. Para auxiliar as validações existem 4 tipos de mensagens:
 
 
-* **Mensagem de Informação**: Representada pelo ícone <img alt="logo" src="img/capitulo4/InfoIcon.png" style="position:absolute; top:-10px; left:-30px; width:80px; height:80px; border:none;"> . Tem por objetivo apenas informar ao utilizador.
+* **Mensagem de Informação**: Representada pelo ícone <img alt="logo" src="img/capitulo4/InfoIcon.png"> . Tem por objetivo apenas informar ao utilizador.
 
 
 * **Mensagem de Alerta**: Representada pelo ícone <img alt="logo" src="img/capitulo4/alertIcon.png"> . Seu objetivo passa por alertar o utilizador sobre algo. Este tipo de mensagem não impede que o utilizador execute uma ação.
@@ -241,16 +241,16 @@ O utilizador pode sair do sistema a qualquer momento. Para tal, deve clicar no b
 
 O menu principal terá disponível um determinado conjunto de módulos de acordo com o perfil que este tem associado à sua conta. É possível, na tabela seguinte, consultar os tipos de perfis existentes na aplicação do FAIT, bem como, os módulos a que estes têm acesso.
 
-|Perfil|  Módulo                              |           
-|------|--------------------------------------|
-|      | ** Registar Fatura                   | 
-|      | ** Importar Fatura                   |  
-|EPSNS | ** Consultar Relatórios de Importação|
-|      | ** Gestão de Ficheiros               |  
-|      | ** Gestão de Faturas                 | 
-|------|--------------------------------------|
-|ACSS  | ** Gestão de Ficheiros               | 
-|      | ** Gestão Faturas                    | 
+|Perfil|  Módulo                               |Permissões|           
+|------|---------------------------------------|----------|
+|EPSNS | **Registar Fatura**                   | **Inserir fatura através do preenchimento manual do formulário S080 (E125).** |
+|      | **Importar Fatura**                   | **Validar informação das faturas no ficheiro;** <p> **Importar Faturas em ficheiros. </p> |
+|      | **Consultar Relatórios de Importação**||
+|      | **Gestão de Ficheiros**               | | 
+|      | **Gestão de Faturas**                 | |
+|------|---------------------------------------| |
+|ACSS  | **Gestão de Ficheiros**               | |
+|      | **Gestão Faturas**                    | |
 
 Após o preenchimento dos campos, o utilizador deverá finalizar a alteração clicando em **Alterar**.
 
