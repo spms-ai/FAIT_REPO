@@ -251,7 +251,7 @@ O menu principal terá disponível um determinado conjunto de módulos de acordo
 	</thead>
 	<tbody>
 		<tr>
-			<td rowspan="5" align="middle">EPSNS </td>
+			<td rowspan="5" vertical-align="middle">EPSNS </td>
 			<td>
 				<ul>
 				<li>Registar Fatura</li>
@@ -317,7 +317,7 @@ O menu principal terá disponível um determinado conjunto de módulos de acordo
 			</td>	
 		</tr>
 		<tr>
-			<td rowspan="2" align="middle">ACSS</td>
+			<td rowspan="2" vertical-align="middle">ACSS</td>
 			<td>
 				<ul>
 				<li>Gestão de Ficheiros</li>
@@ -329,6 +329,20 @@ O menu principal terá disponível um determinado conjunto de módulos de acordo
 				<li>Consultar estado dos ficheiros importados; </li>
 				<li>Não integrar ficheiros no estado válido; </li>
 				<li>Validar ficheiros no estado não válido; </li>
+				<li>Integrar ficheiros no estado válida. </li>
+				</ul>
+			</td>
+			<td>
+				<ul>
+				<li>Gestão de Faturas</li>
+				</ul>
+			</td>
+			<td>
+				<ul>
+				<li>Pesquisar faturas importadas; </li>
+				<li>Editar faturas no estado válida; </li>
+				<li>Não integrar faturas no estado válido; </li>
+				<li>Validar faturas no estado não válido; </li>
 				<li>Integrar faturas no estado válida. </li>
 				</ul>
 			</td>	
