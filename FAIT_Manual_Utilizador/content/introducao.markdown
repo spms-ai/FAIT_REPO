@@ -252,7 +252,7 @@ O menu principal terá disponível um determinado conjunto de módulos de acordo
 	<tbody>
 		<tr>
 			<td rowspan="5">EPSNS</td>
-			<td><ul><li> Registar a Fatura</li<></ul></td>
+			<td>Registar a Fatura</td>
 		</tr>	
 	</tbody>		
 </table>
