@@ -253,8 +253,8 @@ O menu principal terá disponível um determinado conjunto de módulos de acordo
 		<tr>
 			<td>EPSNS</td>
 			<td>ACSS</td>
-			
-			
+		</tr>	
+	</tbody>		
 </table>
 
 Após o preenchimento dos campos, o utilizador deverá finalizar a alteração clicando em **Alterar**.
