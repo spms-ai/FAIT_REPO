@@ -251,8 +251,8 @@ O menu principal terá disponível um determinado conjunto de módulos de acordo
 	</thead>
 	<tbody>
 		<tr>
-			<td>EPSNS</td>
-			<td>ACSS</td>
+			<td rowspan="5">EPSNS</td>
+			<td><ul><li> Registar a Fatura</li<></ul></td>
 		</tr>	
 	</tbody>		
 </table>
