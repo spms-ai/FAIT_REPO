@@ -252,7 +252,17 @@ O menu principal terá disponível um determinado conjunto de módulos de acordo
 	<tbody>
 		<tr>
 			<td rowspan="5">EPSNS</td>
-			<td>Registar a Fatura</td>
+			<td>
+				<ul>
+				<li>Registar a Fatura</li>
+				</ul>
+			</td>
+			<td>
+				<ul>
+				<li> Inserir fatura através do preenchimento manual do formulário S080 (E125). </li>
+				</ul>
+			</td>
+			
 		</tr>	
 	</tbody>		
 </table>
