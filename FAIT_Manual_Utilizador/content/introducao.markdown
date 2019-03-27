@@ -236,28 +236,21 @@ Após a submissão do pedido de recuperação de senha, o utilizador receberá, 
 **Terminar Sessão**
 O utilizador pode sair do sistema a qualquer momento. Para tal, deve clicar no botão Terminar Sessão, representado pelo ícone <img alt="logo" src="img/capitulo4/4_1SessionIcon.png"> , situado no campo superior direito da página. 
 
+<p id="permissoes-e-perfis"></p>
+## 4.2. Permissões e Perfis
 
-\* Só será possível recuperar a senha indicando o endereço eletrónico se este estiver associado apenas a um utilizador.
+O menu principal terá disponível um determinado conjunto de módulos de acordo com o perfil que este tem associado à sua conta. É possível, na tabela seguinte, consultar os tipos de perfis existentes na aplicação do FAIT, bem como, os módulos a que estes têm acesso.
 
-Junto ao logotipo do SGES, encontra-se o botão de atalho para os diferentes menus [](#figatalho_menu). Este botão permite ao utilizador, em qualquer momento na navegação, mudar para um determinado menu.
-
-![figatalho_menu](img/pages/5_1_3_2.JPG)
-
-<p class="caption" id="figatalho_menu"> Botão de atalho para os diferentes menus destacado a amarelo e a janela mostrada quando se carrega no referido botão. </p> 
-
-Na primeira vez que o utilizador acede à aplicação, aparecerá a página de ([5.2. Alteração da senha](#alterao-da-senha)).  
-
-<p id="alteracao-de-senha"></p>
-## 4.2. Alteração da senha
-
-A qualquer momento, o utilizador pode fazer a alteração da sua senha, clicando no botão das opções avançadas situado no canto superior direito da página ~[4.Conceitos Básicos](#conceitos-bsicos). 
-Após clicar em **Alterar Password** é apresentada uma página de alteração de senha, [](#figAlteracaoSenha). O utilizador deverá inserir os campos obrigatórios ( ver tabela abaixo e [](#figAlteracaoSenha).
-
-|    |  Campos Obrigatórios                   |           
-|----|----------------------------------------|
-| a) |  Senha utilizada atualmente            | 
-| b) |  Nova senha pretendida                 |  
-| c) |  Repetição da senha pretendida         |
+|Perfil|  Módulo                              |           
+|------|--------------------------------------|
+|      | ** Registar Fatura                   | 
+|      | ** Importar Fatura                   |  
+|EPSNS | ** Consultar Relatórios de Importação|
+|      | ** Gestão de Ficheiros               |  
+|      | ** Gestão de Faturas                 | 
+|------|--------------------------------------|
+|ACSS  | ** Gestão de Ficheiros               | 
+|      | ** Gestão Faturas                    | 
 
 Após o preenchimento dos campos, o utilizador deverá finalizar a alteração clicando em **Alterar**.
 
