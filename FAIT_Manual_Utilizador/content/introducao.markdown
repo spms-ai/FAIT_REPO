@@ -251,7 +251,7 @@ O menu principal terá disponível um determinado conjunto de módulos de acordo
 	</thead>
 	<tbody>
 		<tr>
-			<td rowspan="5" vertical-align: top; style="font-weight:bold">EPSS </td>
+			<td rowspan="5" style="font-weight:bold">EPSS </td>
 			<td>
 				<ul>
 				<li>Registar Fatura</li>
