@@ -251,7 +251,7 @@ O menu principal terá disponível um determinado conjunto de módulos de acordo
 	</thead>
 	<tbody>
 		<tr>
-			<td rowspan="5">EPSNS</td>
+			<td rowspan="5" align="middle">EPSNS </td>
 			<td>
 				<ul>
 				<li>Registar Fatura</li>
@@ -317,7 +317,7 @@ O menu principal terá disponível um determinado conjunto de módulos de acordo
 			</td>	
 		</tr>
 		<tr>
-			<td rowspan="2">ACSS</td>
+			<td rowspan="2" align="middle">ACSS</td>
 			<td>
 				<ul>
 				<li>Gestão de Ficheiros</li>
