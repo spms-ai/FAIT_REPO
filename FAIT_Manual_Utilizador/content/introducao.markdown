@@ -157,16 +157,16 @@ Associada à interação com o sistema existe um conjunto de conceitos para os q
 Quer a importação dos ficheiros, ou formulários que permitem a criação ou edição de dados têm um conjunto de regras de negócio e validações para facilitar o preenchimento correto dos dados. Para auxiliar as validações existem 4 tipos de mensagens:
 
 
-* **Mensagem de Informação**: Representada pelo ícone <img alt="logo" src="img/capitulo4/InfoIcon.png" align="middle"> . Tem por objetivo apenas informar ao utilizador.
+* **Mensagem de Informação**: Representada pelo ícone <img alt="logo" src="img/capitulo4/InfoIcon.png"> . Tem por objetivo apenas informar ao utilizador.
 
 
-* **Mensagem de Alerta**: Representada pelo ícone <img alt="logo" src="img/capitulo4/alertIcon.png" align="middle"> . Seu objetivo passa por alertar o utilizador sobre algo. Este tipo de mensagem não impede que o utilizador execute uma ação.
+* **Mensagem de Alerta**: Representada pelo ícone <img alt="logo" src="img/capitulo4/alertIcon.png"> . Seu objetivo passa por alertar o utilizador sobre algo. Este tipo de mensagem não impede que o utilizador execute uma ação.
 
 
-* **Mensagem de Erro**: Representada pelo ícone <img alt="logo" src="img/capitulo4/ErroIcon.png" align="middle"> . Este tipo de mensagem informa ao utilizador que ocorreu algum problema durante a execução de uma ação, e impede que esta ação seja executada até que o problema seja corrigido.
+* **Mensagem de Erro**: Representada pelo ícone <img alt="logo" src="img/capitulo4/ErroIcon.png"> . Este tipo de mensagem informa ao utilizador que ocorreu algum problema durante a execução de uma ação, e impede que esta ação seja executada até que o problema seja corrigido.
 
 
-* **Mensagem de Sucesso**: Representada pelo ícone <img alt="logo" src="img/capitulo4/SucessIcon.png" align="middle"> . Apenas informa ao utilizador que a sua ação foi executada com sucesso.
+* **Mensagem de Sucesso**: Representada pelo ícone <img alt="logo" src="img/capitulo4/SucessIcon.png"> . Apenas informa ao utilizador que a sua ação foi executada com sucesso.
 
 
 No cabeçalho das páginas do **FAIT** existe um conjunto de dados que pretende informar e contextualizar o utilizador: 
