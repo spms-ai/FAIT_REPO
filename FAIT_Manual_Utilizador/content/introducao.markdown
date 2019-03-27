@@ -254,16 +254,68 @@ O menu principal terá disponível um determinado conjunto de módulos de acordo
 			<td rowspan="5">EPSNS</td>
 			<td>
 				<ul>
-				<li>Registar a Fatura</li>
+				<li>Registar Fatura</li>
 				</ul>
 			</td>
 			<td>
 				<ul>
 				<li> Inserir fatura através do preenchimento manual do formulário S080 (E125). </li>
 				</ul>
+			</td>	
+		</tr>
+		<tr>
+			<td>
+				<ul>
+				<li>Importar Fatura</li>
+				</ul>
 			</td>
-			
-		</tr>	
+			<td>
+				<ul>
+				<li> Validar informação das faturas no ficheiro; </li>
+				<li> Importar faturas em ficheiros.</li>	
+				</ul>
+			</td>	
+		</tr>
+		<tr>
+			<td>
+				<ul>
+				<li>Consultar Relatórios de Importação</li>
+				</ul>
+			</td>
+			<td>
+				<ul>
+				<li> Pesquisar ficheiros não válidos; </li>
+				<li> Consultar Relatório de erros de validação; </li>
+				<li> Descarregar Relatório de erros de validação; </li>	
+				</ul>
+			</td>	
+		</tr>
+		<tr>
+			<td>
+				<ul>
+				<li>Gestão de Ficheiros</li>
+				</ul>
+			</td>
+			<td>
+				<ul>
+				<li> Pesquisar ficheiros importados; </li>
+				<li> Consultar estado dos ficheiros importados. </li>	
+				</ul>
+			</td>	
+		</tr>
+		<tr>
+			<td>
+				<ul>
+				<li>Gestão de Faturas</li>
+				</ul>
+			</td>
+			<td>
+				<ul>
+				<li> Pesquisar faturas importadas; </li>
+				<li>Editar faturas no estado "válida" </li>
+				</ul>
+			</td>	
+		</tr>
 	</tbody>		
 </table>
 
