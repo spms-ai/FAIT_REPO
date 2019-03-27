@@ -316,6 +316,23 @@ O menu principal terá disponível um determinado conjunto de módulos de acordo
 				</ul>
 			</td>	
 		</tr>
+		<tr>
+			<td rowspan="2">ACSS</td>
+			<td>
+				<ul>
+				<li>Gestão de Ficheiros</li>
+				</ul>
+			</td>
+			<td>
+				<ul>
+				<li>Pesquisar ficheiros importados pelas Entendidas Prestadoras; </li>
+				<li>Consultar estado dos ficheiros importados; </li>
+				<li>Não integrar ficheiros no estado válido; </li>
+				<li>Validar ficheiros no estado não válido; </li>
+				<li>Integrar faturas no estado válida. </li>
+				</ul>
+			</td>	
+		</tr>
 	</tbody>		
 </table>
 
