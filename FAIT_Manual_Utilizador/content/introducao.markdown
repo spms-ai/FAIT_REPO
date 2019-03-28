@@ -250,9 +250,9 @@ O menu principal terá disponível um determinado conjunto de módulos de acordo
 	</tr>
 	</thead>
 	<tbody>
-		<tr>
+		<tr bgcolor="#BAC5FF">
 			<td rowspan="5" bgcolor="#BAC5FF" style="font-weight:bold;vertical-align: middle;" align="center">EPSS </td>
-			<td>
+			<td bgcolor="#BAC5FF">
 				<ul>
 				<li>bgcolor="#BAC5FF" Registar Fatura</li>
 				</ul>
@@ -263,7 +263,7 @@ O menu principal terá disponível um determinado conjunto de módulos de acordo
 				</ul>
 			</td>	
 		</tr>
-		<tr>
+		<tr bgcolor="#BAC5FF">
 			<td>
 				<ul>
 				<li>bgcolor="#BAC5FF" Importar Fatura</li>
@@ -276,7 +276,7 @@ O menu principal terá disponível um determinado conjunto de módulos de acordo
 				</ul>
 			</td>	
 		</tr>
-		<tr>
+		<tr bgcolor="#BAC5FF">
 			<td>
 				<ul>
 				<li>bgcolor="#BAC5FF" Consultar Relatórios de Importação</li>
@@ -290,7 +290,7 @@ O menu principal terá disponível um determinado conjunto de módulos de acordo
 				</ul>
 			</td>	
 		</tr>
-		<tr>
+		<trbgcolor="#BAC5FF">
 			<td>
 				<ul>
 				<li>bgcolor="#BAC5FF" Gestão de Ficheiros</li>
@@ -303,7 +303,7 @@ O menu principal terá disponível um determinado conjunto de módulos de acordo
 				</ul>
 			</td>	
 		</tr>
-		<tr>
+		<tr bgcolor="#BAC5FF">
 			<td>
 				<ul>
 				<li>Gestão de Faturas</li>
