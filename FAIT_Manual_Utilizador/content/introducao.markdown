@@ -254,52 +254,52 @@ O menu principal terá disponível um determinado conjunto de módulos de acordo
 			<td rowspan="5" bgcolor="#BAC5FF" style="font-weight:bold;vertical-align: middle;" align="center">EPSS </td>
 			<td bgcolor="#BAC5FF">
 				<ul>
-				<li>bgcolor="#BAC5FF" Registar Fatura</li>
+				<li> Registar Fatura</li>
 				</ul>
 			</td>
 			<td>
 				<ul>
-				<li>bgcolor="#BAC5FF" Inserir fatura através do preenchimento manual do formulário S080 (E125). </li>
+				<li> Inserir fatura através do preenchimento manual do formulário S080 (E125). </li>
 				</ul>
 			</td>	
 		</tr>
 		<tr bgcolor="#BAC5FF">
 			<td>
 				<ul>
-				<li>bgcolor="#BAC5FF" Importar Fatura</li>
+				<li> Importar Fatura</li>
 				</ul>
 			</td>
 			<td>
 				<ul>
-				<li>bgcolor="#BAC5FF" Validar informação das faturas no ficheiro; </li>
-				<li>bgcolor="#BAC5FF" Importar faturas em ficheiros.</li>	
+				<li> Validar informação das faturas no ficheiro; </li>
+				<li> Importar faturas em ficheiros.</li>	
 				</ul>
 			</td>	
 		</tr>
 		<tr bgcolor="#BAC5FF">
 			<td>
 				<ul>
-				<li>bgcolor="#BAC5FF" Consultar Relatórios de Importação</li>
+				<li> Consultar Relatórios de Importação</li>
 				</ul>
 			</td>
 			<td>
 				<ul>
-				<li>bgcolor="#BAC5FF" Pesquisar ficheiros não válidos; </li>
-				<li>bgcolor="#BAC5FF" Consultar Relatório de erros de validação; </li>
-				<li>bgcolor="#BAC5FF" Descarregar Relatório de erros de validação; </li>	
+				<li> Pesquisar ficheiros não válidos; </li>
+				<li> Consultar Relatório de erros de validação; </li>
+				<li> Descarregar Relatório de erros de validação; </li>	
 				</ul>
 			</td>	
 		</tr>
-		<trbgcolor="#BAC5FF">
+		<tr bgcolor="#BAC5FF">
 			<td>
 				<ul>
-				<li>bgcolor="#BAC5FF" Gestão de Ficheiros</li>
+				<li>Gestão de Ficheiros</li>
 				</ul>
 			</td>
 			<td>
 				<ul>
-				<li>bgcolor="#BAC5FF" Pesquisar ficheiros importados; </li>
-				<li>bgcolor="#BAC5FF" Consultar estado dos ficheiros importados. </li>	
+				<li> Pesquisar ficheiros importados; </li>
+				<li> Consultar estado dos ficheiros importados. </li>	
 				</ul>
 			</td>	
 		</tr>
@@ -311,8 +311,8 @@ O menu principal terá disponível um determinado conjunto de módulos de acordo
 			</td>
 			<td>
 				<ul>
-				<li>bgcolor="#BAC5FF" Pesquisar faturas importadas; </li>
-				<li>bgcolor="#BAC5FF" Editar faturas no estado "válida" </li>
+				<li> Pesquisar faturas importadas; </li>
+				<li> Editar faturas no estado "válida" </li>
 				</ul>
 			</td>	
 		</tr>
