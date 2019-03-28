@@ -251,7 +251,7 @@ O menu principal terá disponível um determinado conjunto de módulos de acordo
 	</thead>
 	<tbody>
 		<tr>
-			<td rowspan="5" style="font-weight:bold">EPSS </td>
+			<td rowspan="5" style="font-weight:bold;vertical-align: middle;" align="center">EPSS </td>
 			<td>
 				<ul>
 				<li>Registar Fatura</li>
@@ -352,7 +352,8 @@ O menu principal terá disponível um determinado conjunto de módulos de acordo
 	</tbody>		
 </table>
 
-Após o preenchimento dos campos, o utilizador deverá finalizar a alteração clicando em **Alterar**.
+Os Perfis de acesso ao sistema apenas fornecem as funcionalidades a que os utilizadores estão credenciados para efetuar, e indicam a entidade com que esse acesso é estabelecido.
+Após o início de sessão, é apresentada ao utilizador a página inicial do FAIT, na qual pode aceder ao conjunto de funcionalidades para as quais tem permissões atribuídas de acordo com o seu perfil.
 
 ![figAlteracaoSenha](img/pages/5_2_1.jpg)
 
