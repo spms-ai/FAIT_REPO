@@ -317,7 +317,7 @@ O menu principal terá disponível um determinado conjunto de módulos de acordo
 			</td>	
 		</tr>
 		<tr>
-			<td rowspan="2" style="font-weight:bold">ACSS</td>
+			<td rowspan="2" bgcolor="#00FF00" style="font-weight:bold;vertical-align: middle;" align="center">ACSS</td>
 			<td>
 				<ul>
 				<li>Gestão de Ficheiros</li>
