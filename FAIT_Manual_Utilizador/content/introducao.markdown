@@ -243,7 +243,7 @@ O menu principal terá disponível um determinado conjunto de módulos de acordo
 
 <table>
 	<thead>
-	<tr>
+	<tr bgcolor="#BAC5FF>
 		<th><h5> Perfil </h5></th>
 		<th><h5> Módulo </h5></th>
 		<th><h5> Permissões </h5></th>
