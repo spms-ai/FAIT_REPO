@@ -242,7 +242,7 @@ O utilizador pode sair do sistema a qualquer momento. Para tal, deve clicar no b
 O menu principal terá disponível um determinado conjunto de módulos de acordo com o perfil que este tem associado à sua conta. É possível, na tabela seguinte, consultar os tipos de perfis existentes na aplicação do FAIT, bem como, os módulos a que estes têm acesso.
 
 <table>
-	<thead>
+	<thead bgcolor="#BAC5FF">
 	<tr bgcolor="#BAC5FF">
 		<th><h5> Perfil </h5></th>
 		<th><h5> Módulo </h5></th>
